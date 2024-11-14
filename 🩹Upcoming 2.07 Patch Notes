@@ -9,6 +9,8 @@ Version 2.07
 •  LB PHONE: Added multiple new text tones. Ring tones were added back (if missing before)
 •  INGAME BUG REPORT: Added in-game bug reporting that is integrated into the VeraCity BugReports-Updates-Roadmap github! Use /bug to report an issue!
 •  RCORE CLOTHING: New Rcore Clothing. Check video below!
+•  MEGAPHONE/MICROPHONE: Added updated version of microphone/megaphone
+•  VOICE EFFECTS: Added a voice effect resource that accounts for being underwater, inside a vehicle, talking on the radio & more!
 
 🟡 CHANGED
 •  CONSUMABLES: Made current candy bars and halloween treats have stress reduction
