@@ -125,6 +125,7 @@ This is an example of how to list things you need to use the software and how to
 - [ ] Complete Readme
 - [ ] Add back to top links
 - [ ] RCORE Clothing
+- [ ] VIP/TEBEX INTEGRATION (Awaiting Review)
 <!-- -->
 <!--
 - [ ] Multi-language Support
