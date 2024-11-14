@@ -1,6 +1,3 @@
-# VeraCityV2-BugReports
-Issues and bug reports for VeraCity Roleplay
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
@@ -21,21 +18,18 @@ Issues and bug reports for VeraCity Roleplay
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-
+</div>
 
 <!-- PROJECT LOGO -->
-<br />
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">VERACITY ROLEPLAY [Bug Reports - Updates - Roadmap]</h3>
-
   <p align="center">
     "Made by the Community, For The Community"
     <br />
@@ -82,9 +76,8 @@ Issues and bug reports for VeraCity Roleplay
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## About The Project 
+<a href="https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap"> <img src="https://i.ibb.co/ssVWVd8/blueparabellum-re-Dec07-01.png" alt="Logo" width="200" height="200"> </a>
 
 --
 
@@ -148,8 +141,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+<a href="https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -167,10 +160,10 @@ Project Link: [https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Update
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap.svg?style=for-the-badge
+[contributors-url]: https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap.svg?style=for-the-badge
 [stars-url]: https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap.svg?style=for-the-badge
 [issues-url]: https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap/issues
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://i.ibb.co/J7yhwfN/blankheaderveracitybanner.png
