@@ -10,7 +10,6 @@ Version 2.07
 •  INGAME BUG REPORT: Added in-game bug reporting that is integrated into the VeraCity BugReports-Updates-Roadmap github! Use /bug to report an issue!
 •  RCORE CLOTHING: New Rcore Clothing. Check video below!
 •  MEGAPHONE/MICROPHONE: Added updated version of microphone/megaphone
-•  VOICE EFFECTS: Added a voice effect resource that accounts for being underwater, inside a vehicle, talking on the radio & more!
 •  LATION DETECTING: Added metalscrap to detecting table
 
 🟡 CHANGED
@@ -25,6 +24,7 @@ Version 2.07
 •  WASABI POLICE: Updated. Huge MS Performance Improvements. Issue With Players Driving Cuffed has been resolved. Duplicating Handcuff Items has been patched. Armory MS Spike has been patched. Handcuffing Players In Vehicles is now being prevented as it is not intended. No Handcuffing While Cuffed is now a thing.
 •  LATION WEED: Updated. Read the extra notes below. Major changes were made!
 •  QBOX: Modified when deleting character, it deletes character associated bank. Modified paycheck notification
+•  BUTCHER JOB: Back up an running! Modified some target icons and sell menu is alot easier now!
 
 🟢 FIXES
 ✔️ SMOKING: Fixed Apple Fritter Joint not working.
@@ -32,8 +32,13 @@ Version 2.07
 
 🔴 REMOVED
 ❌ ILLENIUM APPEARANCE: Out with the old, in with the new!
+❌ D3MBA COCAINE: Removed
+❌ D3MBA HEROIN: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  WHITELISTED WEBHOOK CATEGORIES: Made it so webhook logs don't get deleted from Wick!
 •  SNEAK PEAKS: Fixed it where mentorship program members can see sneak peaks!
 •  CLEAN UP & TICKET EMOJIS: Made each type of ticket have its own emoji. When the ticket is closed it changes it to a lock. Cleaned up discord more!
+
+-WIP
+•  VOICE EFFECTS: Added a voice effect resource that accounts for being underwater, inside a vehicle, talking on the radio & more!
