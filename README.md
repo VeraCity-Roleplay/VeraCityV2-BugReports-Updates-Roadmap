@@ -164,6 +164,6 @@ Project Link: [https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Update
 [contributors-url]: https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap.svg?style=for-the-badge
 [stars-url]: https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap/stargazers
-[issues-shield]: https://img.shields.io/github/issues/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/stars/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap.svg?style=for-the-badge
 [issues-url]: https://github.com/VeraCity-Roleplay/VeraCityV2-BugReports-Updates-Roadmap/issues
 [product-screenshot]: https://i.ibb.co/J7yhwfN/blankheaderveracitybanner.png
