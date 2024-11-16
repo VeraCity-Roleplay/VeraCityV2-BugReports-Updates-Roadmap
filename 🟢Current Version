@@ -1,50 +1,46 @@
-Version 2.06
+Version 2.07
 
 🟣 ADDED
-•  NEW VEHICLE CONTROL: Added a new vehicle control menu. Now only accessible by Radial Menu
-•  NEW RADIAL MENU: Added new radial menu
-•  SMOKING: Cigarettes, packs, and cigars working currently!
-•  ENVI-ZOMBIES: Play zombie minigames to get away from every day stresses. Available till the end of October!
-•  SLEEPLESS PED MANAGER: To manage some peds for various interactions.
-•  SLEEPLESS INTERACT: Simple interactions for certain peds.
-•  BL UI MINIGAMES: Added
-•  ITEMS: Added "Pleatherman Tool" - Used for dragcraft essentials
-•  TAM FUEL: Added some peds around the world for jerry can purchases
+•  LOTTERY MACHINES: Featuring jackpot drawings, scratch offs and more to fulfill any players gambling addiction. Located in stores, will be added to more locations soon!
+•  LOCKPICK MINIGAME: Designed to add a realistic and challenging element to VeraCity. This script offers an engaging experience for players, testing their skills in a captivating way.
+•  LATION DRUG SELLING: Unique zone-based system to the highly customizable reputation & leveling system, you can keep your players engaged and rewarded for their efforts.
+•  WEAPONS: Added Pump Shotgun to Ammunation Stores! Added 9mm and 12 Gauge ammo boxes to stores. Replacing loose ammo when we can.
+•  LICENSES: Added Fishing license. We decided to seperate game and fishing. You will need to re-obtain these.
+•  LB PHONE: Added multiple new text tones. Ring tones were added back (if missing before)
+•  INGAME BUG REPORT: Added in-game bug reporting that is integrated into the VeraCity BugReports-Updates-Roadmap github! Use /bug to report an issue!
+•  RCORE CLOTHING: New Rcore Clothing. Check video below!
+•  MEGAPHONE/MICROPHONE: Added updated version of microphone/megaphone
+•  LATION DETECTING: Added metalscrap to detecting table
+•  SPEAKER & TECH SHOP: Added Digital store at Click Lovers! Added speaker store to Digital Den, Youtool, and Click lovers. (Suggestion by ToxicPanda910)
+•  ZFIRE: Added new fire system!
 
 🟡 CHANGED
-•  MAJOR CHANGES: Changed pay intervals to 10 minutes and changed paycheck notification!
-•  INVENTORY IMAGES: Changed vu_tacos image
-•  VANILLA UNICORN: Added billing system to front desk. Added billing system near DJ booth. Added coffee machine to main bar.
-•  KQ REAL OFFROAD: Added 3057 Trailer park to blacklist.
-•  LB PHONE: Added Vanilla Unicorn to services
-•  WOOSH PD: Changed Pullover key to "O" and Interaction Menu key to "F5" - Made gang notifications for "No gang" non-existent to free up keybinding.
-•  SERVER ARTIFACTS: Updated to 10488
-•  TXADMIN: Updated
-•  DEALERSHIPS: Moved Bifta, Vagrant, and Outlaw to Mosleys! Changed the way dealership peds interact.
-•  BILLING: Made it where you can see full names now during job billing
-•  HUD: Modified how long stress goes away (due to drugs being to help with that!)
-•  DISCOVERABLE BLIPS: Added dealerships to list of places to discover.
-•  WHITE WIDOW: Updated and modified. Added White Widow to services app. White Widow is now up and running. Joints, Bongs & Edibles are currently working!
-•  SQL: Cleaned up unused licenses
-•  MLOS: Updated Sandy Airfield, Updated Park Ranger, Updated BOB IPL, Updated VFD 8 Bay, Updated Blaine County City Hall
-•  CRIMINAL: Updated Blackmarket
-•  GENERAL RESOURCES: Updated CS DOCUMENTS, Updated SITTING, Updated ENVI DUMPSTERS, Updated OUTFIT BAG, Updated EBU TRAILER CONNECT. Updated JG Advanced Garages. Updated TAM Better Radio Animations and set them up. Updated Scully Holster. Updated Envi-Shops. Updated UM-Multicharacter
-•  CLOTHING/MODELS: Updated XTXVXTX FEMALE/MALE BODY REMASTERED
+•  CONSUMABLES: Made current candy bars and halloween treats have stress reduction
+•  SCRIPT LIBRARIES: Updated multiple bridges and libs for scripts
+•  TGG CONTRACTS: Updated - Use qbox exports instead of modifying DB directly & feat: give buyer vehicle keys on transfer
+•  RECOIL: Modified Pistol and Pump Shotgun recoil
+•  METH: Modified max bags output for all levels involving table and warehouse meth when made.
+•  HUD: Adjusted code so that activating cinematic mode now hides the nearest postal display.
+•  RESOURCE UPDATES: Updated JG Mechanic. Updated CS Walkie Talkie. Updated Renewed-Vehiclekeys. Renewed Renewed-Farming. Updated Admin Menu. Updated Butcher Job (Still not functioning). Updated JG Dealerships. Updated JG Mechanic. Updated Lation Meth. Updated SD-Beekeeping. Updated LB Phone. Updated Zyke Smoking
+•  VANILLA UNICORN: Fixed V1 drink crafting and drinking. Seperated drink and food ingredients and added what was missing. Changed out cs-hall layout inside
+•  WASABI POLICE: Updated. Huge MS Performance Improvements. Issue With Players Driving Cuffed has been resolved. Duplicating Handcuff Items has been patched. Armory MS Spike has been patched. Handcuffing Players In Vehicles is now being prevented as it is not intended. No Handcuffing While Cuffed is now a thing.
+•  LATION WEED: Updated. Read the extra notes below. Major changes were made!
+•  QBOX: Modified when deleting character, it deletes character associated bank. Modified paycheck notification
+•  BUTCHER JOB: Back up an running! Modified some target icons and sell menu is alot easier now!
+•  PIXEL CONSUMABLES: Updated. Internal buffs now working.
+•  RENEWED VEHICLEKEYS: Made the transition to vehicle keys as items! You can buy a keyring at YouTool! You may now enter a vehicle without the need to unlock it if you have the key! You can access vehicles even if your key is in a keyring!
+•  SCULLY HOLSTER: Updated. Now has native audio holster sounds which can be heard by other players!
 
 🟢 FIXES
-✔️ VANILLA UNICORN: Fixed food not stacking
-✔️ FISHING: Fixed discord logging. Now shows Player ID & Name
-✔️ DRIVE SCHOOL: No other issues reported now. Vehicles not disappearing should be fixed as well as access.
-✔️ CLOTHING STORES: Fixed ped at postal 7245
-✔️ CANDY: Fixed all of the candy for halloween event.
-✔️ SMOKING: Can now smoke in vehicles with E and it doesn't use horn. Lighter props added. Lighter fluid for lighters. Walk styles different for each drug. Animation fixed for changing smoke placement. 
+✔️ SMOKING: Fixed Apple Fritter Joint not working.
+✔️ TAM FUEL: Fixed gas placement on Nightshade
 
 🔴 REMOVED
-❌ CD VEHICLE CONTROL: Removed CD Vehicle Control
-❌ RADIAL MENU: Removed old radial menu
-❌ CANDY ITEMS: Removed twerk and snikkel (no prop to work with)
-❌ IS INTERACTION: Removed
+❌ ILLENIUM APPEARANCE: Out with the old, in with the new!
+❌ D3MBA COCAINE: Removed
+❌ D3MBA HEROIN: Removed
 
 🔵 DISCORDIA/WEBSITE
-•  WELCOME MESSAGES: Finally got welcome messages fixed. Should see new members popping in now!
-•  STORAGE RENTAL APPLICATIONS: Storage Rental Applications now accessible in Dynasty 8.
+•  WHITELISTED WEBHOOK CATEGORIES: Made it so webhook logs don't get deleted from Wick!
+•  SNEAK PEAKS: Fixed it where mentorship program members can see sneak peaks!
+•  CLEAN UP & TICKET EMOJIS: Made each type of ticket have its own emoji. When the ticket is closed it changes it to a lock. Cleaned up discord more!
