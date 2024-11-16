@@ -22,11 +22,14 @@ Version 2.07
 •  METH: Modified max bags output for all levels involving table and warehouse meth when made.
 •  HUD: Adjusted code so that activating cinematic mode now hides the nearest postal display.
 •  RESOURCE UPDATES: Updated JG Mechanic. Updated CS Walkie Talkie. Updated Renewed-Vehiclekeys. Renewed Renewed-Farming. Updated Admin Menu. Updated Butcher Job (Still not functioning). Updated JG Dealerships. Updated JG Mechanic. Updated Lation Meth. Updated SD-Beekeeping. Updated LB Phone. Updated Zyke Smoking
-•  VANILLA UNICORN: Fixed V1 drink crafting and drinking. Seperated drink and food ingredients and added what was missing.
+•  VANILLA UNICORN: Fixed V1 drink crafting and drinking. Seperated drink and food ingredients and added what was missing. Changed out cs-hall layout inside
 •  WASABI POLICE: Updated. Huge MS Performance Improvements. Issue With Players Driving Cuffed has been resolved. Duplicating Handcuff Items has been patched. Armory MS Spike has been patched. Handcuffing Players In Vehicles is now being prevented as it is not intended. No Handcuffing While Cuffed is now a thing.
 •  LATION WEED: Updated. Read the extra notes below. Major changes were made!
 •  QBOX: Modified when deleting character, it deletes character associated bank. Modified paycheck notification
 •  BUTCHER JOB: Back up an running! Modified some target icons and sell menu is alot easier now!
+•  PIXEL CONSUMABLES: Updated. Internal buffs now working.
+•  RENEWED VEHICLEKEYS: Made the transition to vehicle keys as items! You can buy a keyring at YouTool! You may now enter a vehicle without the need to unlock it if you have the key! You can access vehicles even if your key is in a keyring!
+•  SCULLY HOLSTER: Updated. Now has native audio holster sounds which can be heard by other players!
 
 🟢 FIXES
 ✔️ SMOKING: Fixed Apple Fritter Joint not working.
