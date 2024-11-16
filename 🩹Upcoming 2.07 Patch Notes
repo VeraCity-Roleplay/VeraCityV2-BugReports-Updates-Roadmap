@@ -44,6 +44,3 @@ Version 2.07
 •  WHITELISTED WEBHOOK CATEGORIES: Made it so webhook logs don't get deleted from Wick!
 •  SNEAK PEAKS: Fixed it where mentorship program members can see sneak peaks!
 •  CLEAN UP & TICKET EMOJIS: Made each type of ticket have its own emoji. When the ticket is closed it changes it to a lock. Cleaned up discord more!
-
--WIP
-•  VOICE EFFECTS: Added a voice effect resource that accounts for being underwater, inside a vehicle, talking on the radio & more!
