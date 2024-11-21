@@ -1,4 +1,4 @@
-Version 2.07
+Version 2.08
 
 🟣 ADDED
 •  BLACKMARKET VAN: Black Market van that sets up during the night and resets periodically. This will be the key to get to the higher trade of Black Market.
@@ -8,7 +8,8 @@ Version 2.07
 •  SPIKE STRIPS: Modified to networked and now works on AI vehicles for npc chases
 
 🟢 FIXES
-✔️ --: --
+✔️ AMBULANCE CHECK IN: Fixed being able to cancel progress bar for Checking In
+✔️ SCUBA GEAR: Should now be working. Was merged with fishing script and we added durability to it.
 
 🔴 REMOVED
 ❌ --: --
