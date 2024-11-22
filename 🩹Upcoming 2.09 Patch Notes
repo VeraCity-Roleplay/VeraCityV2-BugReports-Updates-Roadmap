@@ -1,14 +1,18 @@
 Version 2.09
 
 🟣 ADDED
-•  --: --
+•  INVENTORY: Added back Ancient Gold Coin. Quick bar has been added back (BE SURE TO CLEAR YOUR KEYBINDINGS IF NOT WORKING FOR YOU)
 
 🟡 CHANGED
-•  INVENTORY: Modified all fish bait weights
-•  FISHING: Modified treasure chest and metal loot box rarity.
+•  FISHING: Modified treasure chest and metal loot box rarity. Modified all fish bait weights
+•  PAWNSHOP: Added aluminum to pawnshop for buying and selling. Added Ancient Gold Coin for selling to pawnshop.
+•  DIVING: Added Ancient Gold Coin to loot table
+•  DETECTING: Added Ancient Gold Coin to loot table. You are not able to cancel metal detecting. Added notifications for finding an item. Shovel is now required again (dev mistake)
+•  LIBRARY/BRIDGE UPDATES: Updated r_bridge
+•  RESOURCE UPDATES: Updated Lation Detecting
 
 🟢 FIXES
-✔️ --: --
+✔️ MINING: Fixed smelter animation stopping before progress bar finishes
 
 🔴 REMOVED
 ❌ --: --
