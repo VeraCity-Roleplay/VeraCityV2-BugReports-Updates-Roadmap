@@ -1,16 +1,18 @@
 Version 2.09
 
 🟣 ADDED
+•  LATION WEED: Added criminal side to Lation Weed! Multiple strains, multiple levels and more!
 •  INVENTORY: Added back Ancient Gold Coin. Quick bar has been added back (BE SURE TO CLEAR YOUR KEYBINDINGS IF NOT WORKING FOR YOU)
 
 🟡 CHANGED
-•  FISHING: Modified treasure chest and metal loot box rarity. Modified all fish bait weights. Made fishing line and reels not close inventory on use.
+•  FISHING: Modified treasure chest and metal loot box rarity. Modified all fish bait weights. Made fishing line and reels not close inventory on use. Fixed global scuba gear(had to remove it from fishing store)
 •  PAWNSHOP: Added aluminum to pawnshop for buying and selling. Added Ancient Gold Coin for selling to pawnshop.
 •  DIVING: Added Ancient Gold Coin to loot table
 •  DETECTING: Added Ancient Gold Coin to loot table. You are not able to cancel metal detecting. Added notifications for finding an item. Shovel is now required again (dev mistake)
-•  LIBRARY/BRIDGE UPDATES: Updated r_bridge
-•  RESOURCE UPDATES: Updated Lation Detecting, r_lottery.
+•  LIBRARY/BRIDGE UPDATES: Updated r_bridge. Updated wasabi_bridge
+•  RESOURCE UPDATES: Updated Lation Detecting, r_lottery, zFire, zHose, Wasabi Ambulance
 •  HOUSING: Added housing commands to radial menu
+•  CAR PUSHING: Modified where citizens can push vehicles if health is really low OR if fuel is low!
 
 🟢 FIXES
 ✔️ MINING: Fixed smelter animation stopping before progress bar finishes
