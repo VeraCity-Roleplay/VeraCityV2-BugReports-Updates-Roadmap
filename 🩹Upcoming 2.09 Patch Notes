@@ -5,6 +5,8 @@ Version 2.09
 •  INVENTORY: Added back Ancient Gold Coin. Quick bar has been added back (BE SURE TO CLEAR YOUR KEYBINDINGS IF NOT WORKING FOR YOU)
 •  BACKPACKS: Added backpack shop to Strawberry Avenue clothes shop
 •  UWU CAT CAFE: Added new business
+•  FREELANCE JOB: Added Window Cleaner
+•  BANK PED LOCATION: Added Sandy Strip Mall bank ped at Fleeca
 
 🟡 CHANGED
 •  FISHING: Modified treasure chest and metal loot box rarity. Modified all fish bait weights. Made fishing line and reels not close inventory on use. Fixed global scuba gear(had to remove it from fishing store)
@@ -15,6 +17,7 @@ Version 2.09
 •  RESOURCE UPDATES: Updated Lation Detecting, r_lottery, zFire, zHose, Wasabi Ambulance
 •  HOUSING: Added housing commands to radial menu
 •  CAR PUSHING: Modified where citizens can push vehicles if health is really low OR if fuel is low!
+•  LAUNDERING: Modified levels and xp for more progression. How many deals you do affects your rep. Lower the rep, the less people wanna deal with you. Max level is now 30!
 
 🟢 FIXES
 ✔️ MINING: Fixed smelter animation stopping before progress bar finishes
