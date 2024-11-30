@@ -3,6 +3,8 @@ Version 2.09
 🟣 ADDED
 •  LATION WEED: Added criminal side to Lation Weed! Multiple strains, multiple levels and more!
 •  INVENTORY: Added back Ancient Gold Coin. Quick bar has been added back (BE SURE TO CLEAR YOUR KEYBINDINGS IF NOT WORKING FOR YOU)
+•  BACKPACKS: Added backpack shop to Strawberry Avenue clothes shop
+•  UWU CAT CAFE: Added new business
 
 🟡 CHANGED
 •  FISHING: Modified treasure chest and metal loot box rarity. Modified all fish bait weights. Made fishing line and reels not close inventory on use. Fixed global scuba gear(had to remove it from fishing store)
@@ -19,7 +21,7 @@ Version 2.09
 ✔️ ADMIN MENU: Fixed keymapping for admins to open menu (SEMICOLON)
 
 🔴 REMOVED
-❌ --: --
+❌ PALETO HOSPITAL: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
