@@ -18,10 +18,13 @@ Version 2.09
 •  HOUSING: Added housing commands to radial menu
 •  CAR PUSHING: Modified where citizens can push vehicles if health is really low OR if fuel is low!
 •  LAUNDERING: Modified levels and xp for more progression. How many deals you do affects your rep. Lower the rep, the less people wanna deal with you. Max level is now 30!
+•  HUD: Finally got rcore_drunk levels to read on VMS HUD!
+•  WEED: Modified weed to grow within 3-4 days depending on RNG. Updates every 60 seconds instead of 300!
 
 🟢 FIXES
 ✔️ MINING: Fixed smelter animation stopping before progress bar finishes
 ✔️ ADMIN MENU: Fixed keymapping for admins to open menu (SEMICOLON)
+✔️ OPTIMIZATION: Optimized kshellsdrug_txd and vbdss^berd_019_u embedded textures
 
 🔴 REMOVED
 ❌ PALETO HOSPITAL: Removed
