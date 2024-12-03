@@ -7,6 +7,7 @@ Version 2.09
 •  UWU CAT CAFE: Added new business
 •  FREELANCE JOB: Added Window Cleaner
 •  BANK PED LOCATION: Added Sandy Strip Mall bank ped at Fleeca
+•  GN MEDICAL CENTER: Added a new medical center for the city. Central VeraCity Hospital.
 
 🟡 CHANGED
 •  FISHING: Modified treasure chest and metal loot box rarity. Modified all fish bait weights. Made fishing line and reels not close inventory on use. Fixed global scuba gear(had to remove it from fishing store)
@@ -14,20 +15,23 @@ Version 2.09
 •  DIVING: Added Ancient Gold Coin to loot table
 •  DETECTING: Added Ancient Gold Coin to loot table. You are not able to cancel metal detecting. Added notifications for finding an item. Shovel is now required again (dev mistake)
 •  LIBRARY/BRIDGE UPDATES: Updated r_bridge. Updated wasabi_bridge
-•  RESOURCE UPDATES: Updated Lation Detecting, r_lottery, zFire, zHose, Wasabi Ambulance
+•  RESOURCE UPDATES: Updated Lation Detecting, r_lottery, zFire, zHose, Wasabi Ambulance, LBPhone
 •  HOUSING: Added housing commands to radial menu
 •  CAR PUSHING: Modified where citizens can push vehicles if health is really low OR if fuel is low!
 •  LAUNDERING: Modified levels and xp for more progression. How many deals you do affects your rep. Lower the rep, the less people wanna deal with you. Max level is now 30!
 •  HUD: Finally got rcore_drunk levels to read on VMS HUD!
 •  WEED: Modified weed to grow within 3-4 days depending on RNG. Updates every 60 seconds instead of 300!
+•  LBPHONE: Made phones unique again! Lets see if there is any issues!
 
 🟢 FIXES
 ✔️ MINING: Fixed smelter animation stopping before progress bar finishes
 ✔️ ADMIN MENU: Fixed keymapping for admins to open menu (SEMICOLON)
+✔️ INVENTORY IMAGES: Fixed beer, vodka, and whiskey images
 ✔️ OPTIMIZATION: Optimized kshellsdrug_txd and vbdss^berd_019_u embedded textures
 
 🔴 REMOVED
 ❌ PALETO HOSPITAL: Removed
+❌ PILLBOX HOSPITAL: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
