@@ -22,16 +22,18 @@ Version 2.09
 •  HUD: Finally got rcore_drunk levels to read on VMS HUD!
 •  WEED: Modified weed to grow within 3-4 days depending on RNG. Updates every 60 seconds instead of 300!
 •  LBPHONE: Made phones unique again! Lets see if there is any issues!
+•  WINDOW CLEANER: Doubled the income of window cleaning!
 
 🟢 FIXES
 ✔️ MINING: Fixed smelter animation stopping before progress bar finishes
 ✔️ ADMIN MENU: Fixed keymapping for admins to open menu (SEMICOLON)
 ✔️ INVENTORY IMAGES: Fixed beer, vodka, and whiskey images
-✔️ OPTIMIZATION: Optimized kshellsdrug_txd and vbdss^berd_019_u embedded textures
+✔️ OPTIMIZATION: Optimized kshellsdrug_txd and vbdss^berd_019_u embedded textures|
+✔️ SNIPE BANKING: Fixed direct deposit server error
 
 🔴 REMOVED
 ❌ PALETO HOSPITAL: Removed
 ❌ PILLBOX HOSPITAL: Removed
 
 🔵 DISCORDIA/WEBSITE
-•  --: --
+•  NOTIFICATION ROLES: Gave access to Mentorship Program members to be able to opt into notifications
