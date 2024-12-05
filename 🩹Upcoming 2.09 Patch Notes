@@ -8,6 +8,8 @@ Version 2.09
 •  FREELANCE JOB: Added Window Cleaner
 •  BANK PED LOCATION: Added Sandy Strip Mall bank ped at Fleeca
 •  GN MEDICAL CENTER: Added a new medical center for the city. Central VeraCity Hospital.
+•  TAM_FUEL GAS CANS: Added in and working. We added multiple peds at gas stations up north and will continue adding when we can!
+•  CLOTHING: Re-added new Government clothing & Civilan clothing. Optimized to help the server out! Modified/added some variations to some clothes.
 
 🟡 CHANGED
 •  FISHING: Modified treasure chest and metal loot box rarity. Modified all fish bait weights. Made fishing line and reels not close inventory on use. Fixed global scuba gear(had to remove it from fishing store)
@@ -34,6 +36,8 @@ Version 2.09
 🔴 REMOVED
 ❌ PALETO HOSPITAL: Removed
 ❌ PILLBOX HOSPITAL: Removed
+❌ CLOTHING: Removed some old clothes. Removed janky/unusable clothes.
 
 🔵 DISCORDIA/WEBSITE
 •  NOTIFICATION ROLES: Gave access to Mentorship Program members to be able to opt into notifications
+•  DISCORD CLEANUP: Made some more of the discord "prettier"
