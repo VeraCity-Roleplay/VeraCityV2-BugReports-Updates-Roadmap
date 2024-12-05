@@ -1,19 +1,43 @@
-Version 2.08
+Version 2.09
 
 🟣 ADDED
-•  BLACKMARKET VAN: Black Market van that sets up during the night and resets periodically. This will be the key to get to the higher trade of Black Market.
-•  NEW FISHING: We have added a new fishing script which has tons of features involving xp, levels, contracts, and progression!
-•  NEW TRUCKING: We have added a new trucking script which has tons of features involving xp, levels, drivers, party system, jobs, and progression!
+•  LATION WEED: Added criminal side to Lation Weed! Multiple strains, multiple levels and more!
+•  INVENTORY: Added back Ancient Gold Coin. Quick bar has been added back (BE SURE TO CLEAR YOUR KEYBINDINGS IF NOT WORKING FOR YOU)
+•  BACKPACKS: Added backpack shop to Strawberry Avenue clothes shop
+•  UWU CAT CAFE: Added new business
+•  FREELANCE JOB: Added Window Cleaner
+•  BANK PED LOCATION: Added Sandy Strip Mall bank ped at Fleeca
+•  GN MEDICAL CENTER: Added a new medical center for the city. Central VeraCity Hospital.
+•  TAM_FUEL GAS CANS: Added in and working. We added multiple peds at gas stations up north and will continue adding when we can!
+•  CLOTHING: Re-added new Government clothing & Civilan clothing. Optimized to help the server out! Modified/added some variations to some clothes.
 
 🟡 CHANGED
-•  SPIKE STRIPS: Modified to networked and now works on AI vehicles for npc chases
-•  FISHING LEVELING SYSTEM: Modified the fishing leveling progression, improving the way experience and level thresholds are calculated. Max Level is 30!
-•  RESOURCE UPDATES: Updated zFires and Snipe Banking
+•  FISHING: Modified treasure chest and metal loot box rarity. Modified all fish bait weights. Made fishing line and reels not close inventory on use. Fixed global scuba gear(had to remove it from fishing store)
+•  PAWNSHOP: Added aluminum to pawnshop for buying and selling. Added Ancient Gold Coin for selling to pawnshop.
+•  DIVING: Added Ancient Gold Coin to loot table
+•  DETECTING: Added Ancient Gold Coin to loot table. You are not able to cancel metal detecting. Added notifications for finding an item. Shovel is now required again (dev mistake)
+•  LIBRARY/BRIDGE UPDATES: Updated r_bridge. Updated wasabi_bridge
+•  RESOURCE UPDATES: Updated Lation Detecting, r_lottery, zFire, zHose, Wasabi Ambulance, LBPhone
+•  HOUSING: Added housing commands to radial menu
+•  CAR PUSHING: Modified where citizens can push vehicles if health is really low OR if fuel is low!
+•  LAUNDERING: Modified levels and xp for more progression. How many deals you do affects your rep. Lower the rep, the less people wanna deal with you. Max level is now 30!
+•  HUD: Finally got rcore_drunk levels to read on VMS HUD!
+•  WEED: Modified weed to grow within 3-4 days depending on RNG. Updates every 60 seconds instead of 300!
+•  LBPHONE: Made phones unique again! Lets see if there is any issues!
+•  WINDOW CLEANER: Doubled the income of window cleaning!
 
 🟢 FIXES
-✔️ AMBULANCE CHECK IN: Fixed being able to cancel progress bar for Checking In
-✔️ SCUBA GEAR: Should now be working. Was merged with fishing script and we added durability to it.
-✔️ CONSUMABLES: Fixed running while using consumables
+✔️ MINING: Fixed smelter animation stopping before progress bar finishes
+✔️ ADMIN MENU: Fixed keymapping for admins to open menu (SEMICOLON)
+✔️ INVENTORY IMAGES: Fixed beer, vodka, and whiskey images
+✔️ OPTIMIZATION: Optimized kshellsdrug_txd and vbdss^berd_019_u embedded textures|
+✔️ SNIPE BANKING: Fixed direct deposit server error
 
 🔴 REMOVED
-❌ KUB TRUCKING: Removed for popular vote!
+❌ PALETO HOSPITAL: Removed
+❌ PILLBOX HOSPITAL: Removed
+❌ CLOTHING: Removed some old clothes. Removed janky/unusable clothes.
+
+🔵 DISCORDIA/WEBSITE
+•  NOTIFICATION ROLES: Gave access to Mentorship Program members to be able to opt into notifications
+•  DISCORD CLEANUP: Made some more of the discord "prettier"
