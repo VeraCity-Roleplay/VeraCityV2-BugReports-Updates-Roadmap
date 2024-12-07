@@ -1,16 +1,17 @@
 Version 2.10
 
 🟣 ADDED
-•  --: --
+•  SCBA: Added a functional SCBA to SAFR. Smoke & Fire can cause citizens to cough now. You must be equipped with this or have an evacuation masked given to you by SAFR.
+•  SWAT HELMETS/NVG/GOGGLES/VISORS: Added functionality for it all to work seamlessly using commands. Visors/Goggles Up/Down, Headsets Up/Down, NVG Up/Down with Night Vision activation
 
 🟡 CHANGED
-•  --: --
+•  RESOURCE UPDATES: Updated TAM_Fuel
 
 🟢 FIXES
 ✔️ --: --
 
 🔴 REMOVED
-❌ --: --
+❌ MINIGAMES: Removed multiple minigames not worth our time.
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
