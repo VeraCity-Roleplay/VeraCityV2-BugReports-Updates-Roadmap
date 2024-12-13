@@ -5,12 +5,15 @@ Version 2.10
 •  SWAT HELMETS/NVG/GOGGLES/VISORS: Added functionality for it all to work seamlessly using commands. Visors/Goggles Up/Down, Headsets Up/Down, NVG Up/Down with Night Vision activation
 •  HOUSING: Added in a minimal capacity. Eastern Motel is now open for renting! Rent is done within two IRL weeks
 •  DEALERSHIPS: Added the No Place Like Home Dealership!
-•  SONORAN CAD: Added and currently WIP. 
+•  SONORAN CAD: Added and currently WIP.
+•  VERACITY CENTRAL HOSPITAL: Added upstairs application computer. Added elevator/teleport to Public Parking Garage. Modified heights of teleport
+•  REDESIGNED CAR WASH: Modified code to use ox_lib box zones. Utilizies ox_lib menus and now you can pay with cash or card! Records card transaction in bank! Integrated with r14-evidence!
 
 🟡 CHANGED
-•  RESOURCE UPDATES: Updated TAM_Fuel, SmartSpeedCameras, JG AdvancedGarages, JG Dealerships
+•  RESOURCE UPDATES: Updated TAM_Fuel, SmartSpeedCameras, JG AdvancedGarages, JG Dealerships, Updated LB-PHONE
 •  MLO UPDATES: Updated Vanilla Unicorn, Rising Sun (Currently Wicked Motorsports)
 •  SAN ANDREAS HEADQUARTERS MLO: Changed from the 8 Bay version to the 4 Bay version.
+•  RCORE CLOTHING: Confirmed commands are now /reloadskin and /clearped
 
 🟢 FIXES
 ✔️ --: --
