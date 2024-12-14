@@ -8,18 +8,24 @@ Version 2.10
 •  SONORAN CAD: Added and currently WIP.
 •  VERACITY CENTRAL HOSPITAL: Added upstairs application computer. Added elevator/teleport to Public Parking Garage. Modified heights of teleport
 •  REDESIGNED CAR WASH: Modified code to use ox_lib box zones. Utilizies ox_lib menus and now you can pay with cash or card! Records card transaction in bank! Integrated with r14-evidence!
+•  DH-FREECAM: Added FreeCam. Better for taking photos! Use /freecam to access it. Will make it better as time goes on
+•  POLEDANCE SCRIPT: Added new poledance script. Can add pole locations anywhere. Utilizes ox_lib with multiple dance options!
+•  TEBEX SHOP LIVE: SHOP IS NOW LIVE OVER AT https://veracityroleplay.com
 
 🟡 CHANGED
 •  RESOURCE UPDATES: Updated TAM_Fuel, SmartSpeedCameras, JG AdvancedGarages, JG Dealerships, Updated LB-PHONE
 •  MLO UPDATES: Updated Vanilla Unicorn, Rising Sun (Currently Wicked Motorsports)
 •  SAN ANDREAS HEADQUARTERS MLO: Changed from the 8 Bay version to the 4 Bay version.
 •  RCORE CLOTHING: Confirmed commands are now /reloadskin and /clearped
+•  TOWING: Modified Dispatcher position in job. Modified where Drivers of Rebel Towing recieve only commission pay. Increased payments for missions and when they tow any vehicle. Modified commands for Towing Company. RequestTowCommand = 'tdreq', PayTowDriverCommand = 'tdpay'
 
 🟢 FIXES
-✔️ --: --
+✔️ VANILLA UNICORN: Fixed various drinks
+✔️ CLOTHING: Radio Animations x RCORE Clothing
 
 🔴 REMOVED
 ❌ MINIGAMES: Removed multiple minigames not worth our time.
+❌ A5 CAMERA: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  SONORANBOT: Added and set permissions for syncing roles to CAD system.
