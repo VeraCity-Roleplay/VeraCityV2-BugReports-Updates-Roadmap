@@ -11,13 +11,15 @@ Version 2.10
 •  DH-FREECAM: Added FreeCam. Better for taking photos! Use /freecam to access it. Will make it better as time goes on
 •  POLEDANCE SCRIPT: Added new poledance script. Can add pole locations anywhere. Utilizes ox_lib with multiple dance options!
 •  TEBEX SHOP LIVE: SHOP IS NOW LIVE OVER AT https://veracityroleplay.com
+•  JOB FORMS: Added SAMS job form
 
 🟡 CHANGED
-•  RESOURCE UPDATES: Updated TAM_Fuel, SmartSpeedCameras, JG AdvancedGarages, JG Dealerships, Updated LB-PHONE
+•  RESOURCE UPDATES: Updated TAM_Fuel, SmartSpeedCameras, JG AdvancedGarages, JG Dealerships, LB-PHONE, SD-Beekeeping (read extra information below), HOUSING
 •  MLO UPDATES: Updated Vanilla Unicorn, Rising Sun (Currently Wicked Motorsports)
 •  SAN ANDREAS HEADQUARTERS MLO: Changed from the 8 Bay version to the 4 Bay version.
 •  RCORE CLOTHING: Confirmed commands are now /reloadskin and /clearped
 •  TOWING: Modified Dispatcher position in job. Modified where Drivers of Rebel Towing recieve only commission pay. Increased payments for missions and when they tow any vehicle. Modified commands for Towing Company. RequestTowCommand = 'tdreq', PayTowDriverCommand = 'tdpay'
+•  JIM MINING: Modified Jewel Crafting menu. Modified loot tables for all of mining. Began working on metadata for items (WIP)
 
 🟢 FIXES
 ✔️ VANILLA UNICORN: Fixed various drinks
@@ -29,3 +31,15 @@ Version 2.10
 
 🔵 DISCORDIA/WEBSITE
 •  SONORANBOT: Added and set permissions for syncing roles to CAD system.
+
+:Bee_happy:  Changelog v1.1.7 - Beekeeping
+New Features:
+Hives can now become infected, introducing a progressive severity mechanic.
+Severity Levels: Infections worsen over time if untreated, increasing severity and causing greater harm.
+Effects of Infection: Higher severities result in worker bee deaths, significant reductions in efficiency, and, in rare cases, the death of the queen bee.
+You can treat infections with the new thymol item, please refer to the documentation for the new item.
+You can purchase shields of varying quality to protect your hive from infections for specific durations. These shields are ideal for ensuring your hive operates at maximum efficiency, even overnight.
+
+Optimizations:
+The beekeepingData table has been augmented with purpose-specific sub-tables. While beekeepingData remains intact for full hive/house data, sub-tables are now utilized for common operations like ownership or collaborator checks. By iterating only over relevant data in these sub-tables, the script achieves faster and more efficient execution.
+https://discord.com/channels/842045164951437383/1314562939990179860/1316816931998666763
