@@ -16,7 +16,6 @@ Version 2.10
 🟡 CHANGED
 •  RESOURCE UPDATES: Updated TAM_Fuel, SmartSpeedCameras, JG AdvancedGarages, JG Dealerships, LB-PHONE, SD-Beekeeping (read extra information below), HOUSING
 •  MLO UPDATES: Updated Vanilla Unicorn, Rising Sun (Currently Wicked Motorsports)
-•  SAN ANDREAS HEADQUARTERS MLO: Changed from the 8 Bay version to the 4 Bay version.
 •  RCORE CLOTHING: Confirmed commands are now /reloadskin and /clearped
 •  TOWING: Modified Dispatcher position in job. Modified where Drivers of Rebel Towing recieve only commission pay. Increased payments for missions and when they tow any vehicle. Modified commands for Towing Company. RequestTowCommand = 'tdreq', PayTowDriverCommand = 'tdpay'
 •  JIM MINING: Modified Jewel Crafting menu. Modified loot tables for all of mining. Began working on metadata for items (WIP)
