@@ -4,13 +4,17 @@ Version 2.10
 •  --: --
 
 🟡 CHANGED
-•  --: --
+•  QBX: Updated core
+•  SERVER RESTART TIMES: Changed to 6 hour restarts | 20:00hrs, 02:00hrs, 08:00hrs, 14:00hrs
+•  LIB/BRIDGE UPDATES: Updated Renewed-Lib
+•  MINING: Major working of how items work. Pickaxe, Mining Drill, and Mining Laser now have unique durabilities. Fixed some sounds
 
 🟢 FIXES
 ✔️ --: --
 
 🔴 REMOVED
-❌ --: --
+❌ RD CITATIONS: Removed
+❌ MLOS: Removed Custom Sandy Boat dock, Removed NXTEAM Police Station (which fixed some other issues)
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
