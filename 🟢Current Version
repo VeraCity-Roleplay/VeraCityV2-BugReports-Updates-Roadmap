@@ -1,32 +1,29 @@
-Version 2.10
+Version 2.11
 
 🟣 ADDED
-•  SCBA: Added a functional SCBA to SAFR. Smoke & Fire can cause citizens to cough now. You must be equipped with this or have an evacuation masked given to you by SAFR.
-•  SWAT HELMETS/NVG/GOGGLES/VISORS: Added functionality for it all to work seamlessly using commands. Visors/Goggles Up/Down, Headsets Up/Down, NVG Up/Down with Night Vision activation
-•  HOUSING: Added in a minimal capacity. Eastern Motel is now open for renting! Rent is done within two IRL weeks
-•  DEALERSHIPS: Added the No Place Like Home Dealership!
-•  SONORAN CAD: Added and currently WIP.
-•  VERACITY CENTRAL HOSPITAL: Added upstairs application computer. Added elevator/teleport to Public Parking Garage. Modified heights of teleport
-•  REDESIGNED CAR WASH: Modified code to use ox_lib box zones. Utilizies ox_lib menus and now you can pay with cash or card! Records card transaction in bank! Integrated with r14-evidence!
-•  DH-FREECAM: Added FreeCam. Better for taking photos! Use /freecam to access it. Will make it better as time goes on
-•  POLEDANCE SCRIPT: Added new poledance script. Can add pole locations anywhere. Utilizes ox_lib with multiple dance options!
-•  TEBEX SHOP LIVE: SHOP IS NOW LIVE OVER AT https://veracityroleplay.com
-•  JOB FORMS: Added SAMS job form
+•  WEAPONS: Added new Butcher Knife (now usable at Chicken Butcher Job)
+•  PEPPER SPRAY: Added Pepper Spray for Law Enforcement. Also added Decontamination Antidote for helping subjects after exposure.
+•  ADVANCED HELICOPTER BUCKET: This lightweight, robust, and flexible firefighting bucket, with a substantial water capacity, has revolutionized the use of helicopters in combating forest fires and has quickly become an indispensable tool for firefighting.
+•  WEAPONS SOUND PACK: Added weapons sound pack (would like to find better/louder if possible)
+•  MLO: Added DNX Chiliad Town
+•  VERACITY INVENTORY HOOKS: Made a new script to handle inventory items and durability hooks (Made for mining & butcher job so far)
+•  VERACITY ANTI HELICOPTER: Made a new script to handle planes & helicopters. Restricted to license & jobs/positions.
 
 🟡 CHANGED
-•  RESOURCE UPDATES: Updated TAM_Fuel, SmartSpeedCameras, JG AdvancedGarages, JG Dealerships, LB-PHONE, SD-Beekeeping (read extra information below), HOUSING
-•  MLO UPDATES: Updated Vanilla Unicorn, Rising Sun (Currently Wicked Motorsports)
-•  RCORE CLOTHING: Confirmed commands are now /reloadskin and /clearped
-•  TOWING: Modified Dispatcher position in job. Modified where Drivers of Rebel Towing recieve only commission pay. Increased payments for missions and when they tow any vehicle. Modified commands for Towing Company. RequestTowCommand = 'tdreq', PayTowDriverCommand = 'tdpay'
-•  JIM MINING: Modified Jewel Crafting menu. Modified loot tables for all of mining. Began working on metadata for items (WIP)
+•  QBX: Updated core
+•  SERVER RESTART TIMES: Changed to 6 hour restarts | 20:00hrs, 02:00hrs, 08:00hrs, 14:00hrs
+•  LIB/BRIDGE UPDATES: Updated Renewed-Lib, r_bridge
+•  MINING: Major working of how items work. Pickaxe, Mining Drill, and Mining Laser now have unique durabilities. Fixed some sounds
+•  BUTCHER JOB: Updated. Modified knife to use the new Butcher Knife. Decreases durability to Butcher Knife when killing/processing or using as a weapon!
+•  RESOURCE UPDATES: Updated scully_holster, Lation 24/7 Robbery
+•  VMS FLIGHT SCHOOL: Modified flight school so all citizens can partake in it. To fly within the city they will need to complete a FAA course with another citizen instructor!
 
 🟢 FIXES
-✔️ VANILLA UNICORN: Fixed various drinks
-✔️ CLOTHING: Radio Animations x RCORE Clothing
+✔️ OXYGEN FOOD: Fixed server error
 
 🔴 REMOVED
-❌ MINIGAMES: Removed multiple minigames not worth our time.
-❌ A5 CAMERA: Removed
+❌ RD CITATIONS: Removed
+❌ MLOS: Removed Custom Sandy Boat dock, Removed NXTEAM Police Station (which fixed some other issues), Removed Sandy NORTH Trees
 
 🔵 DISCORDIA/WEBSITE
-•  SONORANBOT: Added and set permissions for syncing roles to CAD system.
+•  DISCORD BOT: Fixed an issue in Introductions
