@@ -8,6 +8,7 @@ Version 2.11
 •  MLO: Added DNX Chiliad Town
 •  VERACITY INVENTORY HOOKS: Made a new script to handle inventory items and durability hooks (Made for mining & butcher job so far)
 •  VERACITY ANTI HELICOPTER: Made a new script to handle planes & helicopters. Restricted to license & jobs/positions.
+•  TAYS SERVER SCENARIOS: Added scenarios file. Will add/modify later on
 
 🟡 CHANGED
 •  QBX: Updated core
