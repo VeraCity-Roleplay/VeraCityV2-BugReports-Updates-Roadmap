@@ -8,14 +8,16 @@ Version 2.12
 •  OSP AMBULANCE: Added new ambulance/health system. Added Terminals for EMS arrivals, added ECG screens for ER.
 •  MEDICAL PROPS: Added medical props for casts for OSP Ambulance
 •  THEEBU TOW: Added Theebu Tow to replace KD Tow (Community preferred)
-•  ST RADIO: Added new radios with distance to them! (New items in Digital Den & Click Lovers!)
+•  KQ WINCH: Added back the winches for people to use. Available at YouTool
+•  SMART DRONE: Added drone for SAFR/LAW use!
 
 🟡 CHANGED
 •  CAMEL TOWING: Switched from Rebel Towing to Camel Towing. Modified one trucks livery to match
-•  SONORAN UPDATES: Updated SonoranRADIO
+•  SONORAN UPDATES: Updated SonoranRADIO. Vocoder voice effect now enabled!
 •  INVENTORY: Lowered radio weights to realistic weights
-•  MINING: Added sound for gem crafting. Modified sound for mining tools
+•  MINING: Added sound for gem crafting. Modified sound for mining tools. Mining is now nerfed!
 •  ADVANCED GARAGES: Changed location of Sandy North Parking. Changed Sandy North Parking to just "Sandy Parking"
+•  CLOTHING: Added hospital clothing & Camel Towing clothing. Added missing clothing from various agencies. Added textures in for SAFR to use SAMS belts with different textures.
 
 🟢 FIXES
 ✔️ LICENSES & RENEWING: Fixed being able to buy licenses without taking tests/practical. Now only used for renewing.
@@ -26,3 +28,7 @@ Version 2.12
 
 🔵 DISCORDIA/WEBSITE
 •  MENTORSHIP: Added Mentorship Waiting Room
+•  VERIFICATION SUPPORT: Added Verification Ticket system if a user has issues with verification process.
+
+POSSIBLY?
+•  ST RADIO: Added new radios with distance to them! (New items in Digital Den & Click Lovers!)
