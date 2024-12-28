@@ -10,22 +10,30 @@ Version 2.12
 •  THEEBU TOW: Added Theebu Tow to replace KD Tow (Community preferred)
 •  KQ WINCH: Added back the winches for people to use. Available at YouTool
 •  SMART DRONE: Added drone for SAFR/LAW use!
+•  NOTIFICATIONS: Added stress notification with sound
+•  STRESS: Added stress when failing to pick up a chicken during butcher job
+•  SPEAKERS: Added permanent speaker to Chicken Factory Job area.
 
 🟡 CHANGED
 •  CAMEL TOWING: Switched from Rebel Towing to Camel Towing. Modified one trucks livery to match
 •  SONORAN UPDATES: Updated SonoranRADIO. Vocoder voice effect now enabled!
 •  INVENTORY: Lowered radio weights to realistic weights
-•  MINING: Added sound for gem crafting. Modified sound for mining tools. Mining is now nerfed!
+•  MINING: Added sound for gem crafting. Modified sound for mining tools. Modified all loot tables (made it easier). Mining is now nerfed!
 •  ADVANCED GARAGES: Changed location of Sandy North Parking. Changed Sandy North Parking to just "Sandy Parking"
 •  CLOTHING: Added hospital clothing & Camel Towing clothing. Added missing clothing from various agencies. Added textures in for SAFR to use SAMS belts with different textures.
-•  RPEMOTES: Modified seatbelt key to B. You no longer point while in a vehicle.
+•  RPEMOTESxVMSHUD: Modified seatbelt key to B. You no longer point while in a vehicle.
+•  RESOURCE UPDATES: Updated rtx_carry (modified so players can run while carrying), Updated rtx_tv, Updated pixel-consumables.
+•  NEAREST POSTAL: We still have the resource, we just don't render the postal. You can still use /postal to set waypoint to specific area.
+•  CARRY: Can now run while carrying players
 
 🟢 FIXES
 ✔️ LICENSES & RENEWING: Fixed being able to buy licenses without taking tests/practical. Now only used for renewing.
+✔️ CONSUMABLES: Made the eating taco animation a bit more realistic. (giggity)
 
 🔴 REMOVED
 ❌ ADVANCED GARAGES: Removed Sandy South Parking
 ❌ KD TOW TRUCK: Removed
+❌ INVENTORY ITEMS: Removed old (unused) vanilla unicorn food items
 
 🔵 DISCORDIA/WEBSITE
 •  MENTORSHIP: Added Mentorship Waiting Room
