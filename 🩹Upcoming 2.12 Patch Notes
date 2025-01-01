@@ -1,7 +1,7 @@
 Version 2.12
 
 🟣 ADDED
-•  VEHICLES: Added SAFR's Super Huey for fire supression. Added storage to vehicle "Outlaw" and modified storage weight capacity of Outlaw and Winky to 50kg
+•  VEHICLES: Added SAFR's Super Huey for fire supression. Added storage to vehicle "Outlaw" and modified storage weight capacity of Outlaw and Winky to 50kg. Added Gator for SAFR
 •  STUN GRENADE: Added the stun grenade for LEO. AKA Flashbang!
 •  MADS HELICAM: Added an awesome helicam with nightvision & thermal capability!
 •  SMART SIGNS: Added Smart Signs which will be used for future SADOT
@@ -13,18 +13,24 @@ Version 2.12
 •  NOTIFICATIONS: Added stress notification with sound
 •  STRESS: Added stress when failing to pick up a chicken during butcher job
 •  SPEAKERS: Added permanent speaker to Chicken Factory Job area.
+•  TGG BANKING: Added (WIP)
+•  VMS BOSS MENU: Added (WIP)
+•  VMS CITY HALL: Added (WIP)
+•  VMS DOCUMENTS V2: Added (WIP)
 
 🟡 CHANGED
 •  CAMEL TOWING: Switched from Rebel Towing to Camel Towing. Modified one trucks livery to match
 •  SONORAN UPDATES: Updated SonoranRADIO. Vocoder voice effect now enabled!
-•  INVENTORY: Lowered radio weights to realistic weights
+•  INVENTORY: Lowered radio weights to realistic weights. Lowered Chicken Stock Bones weight.
 •  MINING: Added sound for gem crafting. Modified sound for mining tools. Modified all loot tables (made it easier). Mining is now nerfed!
 •  ADVANCED GARAGES: Changed location of Sandy North Parking. Changed Sandy North Parking to just "Sandy Parking"
 •  CLOTHING: Added hospital clothing & Camel Towing clothing. Added missing clothing from various agencies. Added textures in for SAFR to use SAMS belts with different textures.
 •  RPEMOTESxVMSHUD: Modified seatbelt key to B. You no longer point while in a vehicle.
-•  RESOURCE UPDATES: Updated rtx_carry (modified so players can run while carrying), Updated rtx_tv, Updated pixel-consumables.
+•  RESOURCE UPDATES: Updated rtx_carry (modified so players can run while carrying), Updated rtx_tv, Updated pixel-consumables. Updated Storage Properties.
 •  NEAREST POSTAL: We still have the resource, we just don't render the postal. You can still use /postal to set waypoint to specific area.
 •  CARRY: Can now run while carrying players
+•  BRIDGE/LIB UPDATES: Updated sd_lib
+•  CONTROLS/KEYBINDINGS: Changed Cruise Control from Left CONTROL TO Right CONTROL, Change Throttle Control to Right SHIFT. Changed Nitrous Keybinding to Left Shift
 
 🟢 FIXES
 ✔️ LICENSES & RENEWING: Fixed being able to buy licenses without taking tests/practical. Now only used for renewing.
