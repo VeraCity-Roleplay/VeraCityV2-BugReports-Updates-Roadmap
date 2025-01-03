@@ -12,11 +12,12 @@ Version 2.12
 •  SMART DRONE: Added drone for SAFR/LAW use!
 •  NOTIFICATIONS: Added stress notification with sound
 •  STRESS: Added stress when failing to pick up a chicken during butcher job
-•  SPEAKERS: Added permanent speaker to Chicken Factory Job area.
-•  TGG BANKING: Added (WIP)
-•  VMS BOSS MENU: Added (WIP)
-•  VMS CITY HALL: Added (WIP)
+•  SPEAKERS: Added permanent connected speakers to Chicken Factory Job area.
+•  TGG BANKING: Added. Check below for more information. (WIP)
+•  VMS BOSS MENU: Added. Check below for more information. (WIP)
+•  VMS CITY HALL: Added. Check below for more information. (WIP)
 •  VMS DOCUMENTS V2: Added (WIP)
+•  CIVILIAN AND GOVERNMENT TRAILER DEALERSHIPS: Added (WIP)
 
 🟡 CHANGED
 •  CAMEL TOWING: Switched from Rebel Towing to Camel Towing. Modified one trucks livery to match
@@ -26,20 +27,26 @@ Version 2.12
 •  ADVANCED GARAGES: Changed location of Sandy North Parking. Changed Sandy North Parking to just "Sandy Parking"
 •  CLOTHING: Added hospital clothing & Camel Towing clothing. Added missing clothing from various agencies. Added textures in for SAFR to use SAMS belts with different textures.
 •  RPEMOTESxVMSHUD: Modified seatbelt key to B. You no longer point while in a vehicle.
-•  RESOURCE UPDATES: Updated rtx_carry (modified so players can run while carrying), Updated rtx_tv, Updated pixel-consumables. Updated Storage Properties.
+•  RESOURCE UPDATES: Updated rtx_carry (modified so players can run while carrying), Updated rtx_tv, Updated pixel-consumables. Updated Storage Properties. Updated Pepper Spray
 •  NEAREST POSTAL: We still have the resource, we just don't render the postal. You can still use /postal to set waypoint to specific area.
 •  CARRY: Can now run while carrying players
 •  BRIDGE/LIB UPDATES: Updated sd_lib
 •  CONTROLS/KEYBINDINGS: Changed Cruise Control from Left CONTROL TO Right CONTROL, Change Throttle Control to Right SHIFT. Changed Nitrous Keybinding to Left Shift
+•  JG MECHANIC: Modified prices & multipliers for Cosmetics & Performance parts (earlier stages are more affordable!)
+•  SERVER SIDE VISUALS: Modified server side visuals to only affect Government Vehicle Lighting.. Enjoy using your visual mods ^_^
 
 🟢 FIXES
 ✔️ LICENSES & RENEWING: Fixed being able to buy licenses without taking tests/practical. Now only used for renewing.
 ✔️ CONSUMABLES: Made the eating taco animation a bit more realistic. (giggity)
+✔️ OUTFIT BAG: Modified to work with rcore_clothing
 
 🔴 REMOVED
 ❌ ADVANCED GARAGES: Removed Sandy South Parking
 ❌ KD TOW TRUCK: Removed
 ❌ INVENTORY ITEMS: Removed old (unused) vanilla unicorn food items
+❌ AZ TRAILER: Removed trailer purchase scripts
+❌ AP GOVERNMENT: Removed
+❌ QBX CITYHALL: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  MENTORSHIP: Added Mentorship Waiting Room
