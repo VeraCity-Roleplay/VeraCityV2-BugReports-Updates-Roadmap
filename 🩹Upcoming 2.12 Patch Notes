@@ -18,6 +18,7 @@ Version 2.12
 •  VMS CITY HALL: Added. Check below for more information. (WIP)
 •  VMS DOCUMENTS V2: Added (WIP)
 •  CIVILIAN AND GOVERNMENT TRAILER DEALERSHIPS: Added (WIP)
+•  RENEWED VEHICLEKEYS: Added lockpick & hotwire minigame to vehicle stealing.
 
 🟡 CHANGED
 •  CAMEL TOWING: Switched from Rebel Towing to Camel Towing. Modified one trucks livery to match
@@ -32,8 +33,9 @@ Version 2.12
 •  CARRY: Can now run while carrying players
 •  BRIDGE/LIB UPDATES: Updated sd_lib
 •  CONTROLS/KEYBINDINGS: Changed Cruise Control from Left CONTROL TO Right CONTROL, Change Throttle Control to Right SHIFT. Changed Nitrous Keybinding to Left Shift
-•  JG MECHANIC: Modified prices & multipliers for Cosmetics & Performance parts (earlier stages are more affordable!)
+•  JG MECHANIC: Modified prices & multipliers for Cosmetics & Performance parts (earlier stages are more affordable!). Modified Nitrous speed multiplier.
 •  SERVER SIDE VISUALS: Modified server side visuals to only affect Government Vehicle Lighting.. Enjoy using your visual mods ^_^
+•  BUTCHER JOB: Removed Chicken Legs being an item for delivery. Deliveries should be a bit easier now! Changed max number of items for a few that can be delivered. (More Profit!)
 
 🟢 FIXES
 ✔️ LICENSES & RENEWING: Fixed being able to buy licenses without taking tests/practical. Now only used for renewing.
@@ -47,6 +49,7 @@ Version 2.12
 ❌ AZ TRAILER: Removed trailer purchase scripts
 ❌ AP GOVERNMENT: Removed
 ❌ QBX CITYHALL: Removed
+❌ TGG CONTRACTS: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  MENTORSHIP: Added Mentorship Waiting Room
