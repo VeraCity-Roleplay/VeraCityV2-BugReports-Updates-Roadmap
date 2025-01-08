@@ -29,7 +29,7 @@ Version 2.12
 •  ADVANCED GARAGES: Changed location of Sandy North Parking. Changed Sandy North Parking to just "Sandy Parking"
 •  CLOTHING: Added hospital clothing & Camel Towing clothing. Added missing clothing from various agencies. Added textures in for SAFR to use SAMS belts with different textures.
 •  RPEMOTESxVMSHUD: Modified seatbelt key to B. You no longer point while in a vehicle.
-•  RESOURCE UPDATES: Updated rtx_carry (modified so players can run while carrying), Updated rtx_tv, Updated pixel-consumables. Updated Storage Properties. Updated Pepper Spray
+•  RESOURCE UPDATES: Updated rtx_carry (modified so players can run while carrying), Updated rtx_tv, Updated pixel-consumables. Updated Storage Properties. Updated Pepper Spray. Updated RTX Theme Park. Updated Drive School
 •  NEAREST POSTAL: We still have the resource, we just don't render the postal. You can still use /postal to set waypoint to specific area.
 •  CARRY: Can now run while carrying players
 •  BRIDGE/LIB UPDATES: Updated sd_lib
