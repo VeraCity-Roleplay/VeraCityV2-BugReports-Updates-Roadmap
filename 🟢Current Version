@@ -1,30 +1,60 @@
-Version 2.11
+Version 2.12
 
 🟣 ADDED
-•  WEAPONS: Added new Butcher Knife (now usable at Chicken Butcher Job)
-•  PEPPER SPRAY: Added Pepper Spray for Law Enforcement. Also added Decontamination Antidote for helping subjects after exposure.
-•  ADVANCED HELICOPTER BUCKET: This lightweight, robust, and flexible firefighting bucket, with a substantial water capacity, has revolutionized the use of helicopters in combating forest fires and has quickly become an indispensable tool for firefighting.
-•  WEAPONS SOUND PACK: Added weapons sound pack (would like to find better/louder if possible)
-•  MLO: Added DNX Chiliad Town
-•  VERACITY INVENTORY HOOKS: Made a new script to handle inventory items and durability hooks (Made for mining & butcher job so far)
-•  VERACITY ANTI HELICOPTER: Made a new script to handle planes & helicopters. Restricted to license & jobs/positions.
-•  TAYS SERVER SCENARIOS: Added scenarios file. Will add/modify later on
+•  VEHICLES: Added SAFR's Super Huey for fire supression. Added storage to vehicle "Outlaw" and modified storage weight capacity of Outlaw and Winky to 50kg. Added Gator for SAFR
+•  STUN GRENADE: Added the stun grenade for LEO. AKA Flashbang!
+•  MADS HELICAM: Added an awesome helicam with nightvision & thermal capability!
+•  SMART SIGNS: Added Smart Signs which will be used for future SADOT
+•  OSP AMBULANCE: Added new ambulance/health system. Added Terminals for EMS arrivals, added ECG screens for ER.
+•  MEDICAL PROPS: Added medical props for casts for OSP Ambulance
+•  THEEBU TOW: Added Theebu Tow to replace KD Tow (Community preferred)
+•  KQ WINCH: Added back the winches for people to use. Available at YouTool
+•  SMART DRONE: Added drone for SAFR/LAW use!
+•  NOTIFICATIONS: Added stress notification with sound
+•  STRESS: Added stress when failing to pick up a chicken during butcher job
+•  SPEAKERS: Added permanent connected speakers to Chicken Factory Job area.
+•  TGG BANKING: Added. Check below for more information. (WIP)
+•  VMS BOSS MENU: Added. Check below for more information. (WIP)
+•  VMS CITY HALL: Added. Check below for more information. (WIP)
+•  VMS DOCUMENTS V2: Added (WIP)
+•  CIVILIAN AND GOVERNMENT TRAILER DEALERSHIPS: Added (WIP)
+•  RENEWED VEHICLEKEYS: Added lockpick & hotwire minigame to vehicle stealing.
+•  LOTTERY: Added lottery machine to Paleto Gas Station near Courthouse
 
 🟡 CHANGED
-•  QBX: Updated core
-•  SERVER RESTART TIMES: Changed to 6 hour restarts | 20:00hrs, 02:00hrs, 08:00hrs, 14:00hrs
-•  LIB/BRIDGE UPDATES: Updated Renewed-Lib, r_bridge
-•  MINING: Major working of how items work. Pickaxe, Mining Drill, and Mining Laser now have unique durabilities. Fixed some sounds
-•  BUTCHER JOB: Updated. Modified knife to use the new Butcher Knife. Decreases durability to Butcher Knife when killing/processing or using as a weapon!
-•  RESOURCE UPDATES: Updated scully_holster, Lation 24/7 Robbery
-•  VMS FLIGHT SCHOOL: Modified flight school so all citizens can partake in it. To fly within the city they will need to complete a FAA course with another citizen instructor!
+•  CAMEL TOWING: Switched from Rebel Towing to Camel Towing. Modified one trucks livery to match
+•  SONORAN UPDATES: Updated SonoranRADIO. Vocoder voice effect now enabled!
+•  INVENTORY: Lowered radio weights to realistic weights. Lowered Chicken Stock Bones weight.
+•  MINING: Added sound for gem crafting. Modified sound for mining tools. Modified all loot tables (made it easier). Mining is now nerfed!
+•  ADVANCED GARAGES: Changed location of Sandy North Parking. Changed Sandy North Parking to just "Sandy Parking"
+•  CLOTHING: Added hospital clothing & Camel Towing clothing. Added missing clothing from various agencies. Added textures in for SAFR to use SAMS belts with different textures.
+•  RPEMOTESxVMSHUD: Modified seatbelt key to B. You no longer point while in a vehicle.
+•  RESOURCE UPDATES: Updated rtx_carry (modified so players can run while carrying), Updated rtx_tv, Updated pixel-consumables. Updated Storage Properties. Updated Pepper Spray. Updated RTX Theme Park. Updated Drive School
+•  NEAREST POSTAL: We still have the resource, we just don't render the postal. You can still use /postal to set waypoint to specific area.
+•  CARRY: Can now run while carrying players
+•  BRIDGE/LIB UPDATES: Updated sd_lib
+•  CONTROLS/KEYBINDINGS: Changed Cruise Control from Left CONTROL TO Right CONTROL, Change Throttle Control to Right SHIFT. Changed Nitrous Keybinding to Left Shift
+•  JG MECHANIC: Modified prices & multipliers for Cosmetics & Performance parts (earlier stages are more affordable!). Modified Nitrous speed multiplier.
+•  SERVER SIDE VISUALS: Modified server side visuals to only affect Government Vehicle Lighting.. Enjoy using your visual mods ^_^
+•  BUTCHER JOB: Removed Chicken Legs being an item for delivery. Deliveries should be a bit easier now! Changed max number of items for a few that can be delivered. (More Profit!)
+•  MLO/YMAP: Removed tree in Chilliad Town Road from Paleto. Added Dead Trees for cold months.
 
 🟢 FIXES
-✔️ OXYGEN FOOD: Fixed server error
+✔️ LICENSES & RENEWING: Fixed being able to buy licenses without taking tests/practical. Now only used for renewing.
+✔️ CONSUMABLES: Made the eating taco animation a bit more realistic. (giggity)
+✔️ OUTFIT BAG: Modified to work with rcore_clothing
 
 🔴 REMOVED
-❌ RD CITATIONS: Removed
-❌ MLOS: Removed Custom Sandy Boat dock, Removed NXTEAM Police Station (which fixed some other issues), Removed Sandy NORTH Trees
+❌ ADVANCED GARAGES: Removed Sandy South Parking
+❌ KD TOW TRUCK: Removed
+❌ INVENTORY ITEMS: Removed old (unused) vanilla unicorn food items
+❌ AZ TRAILER: Removed trailer purchase scripts
+❌ AP GOVERNMENT: Removed
+❌ QBX CITYHALL: Removed
+❌ TGG CONTRACTS: Removed
+❌ BLIP DISCOVERY: Removed driving, boating, flying license schools from discovery. Blips will be automatic for everyone!
+❌ CS JOB FORM: Removed
 
 🔵 DISCORDIA/WEBSITE
-•  DISCORD BOT: Fixed an issue in Introductions
+•  MENTORSHIP: Added Mentorship Waiting Room
+•  VERIFICATION SUPPORT: Added Verification Ticket system if a user has issues with verification process.
