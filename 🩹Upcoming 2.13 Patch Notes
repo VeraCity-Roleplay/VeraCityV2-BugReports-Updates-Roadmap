@@ -10,18 +10,24 @@ Version 2.13
 •  DYNO MACHINE: Added Dyno Machines for Tuners!
 •  MAPS/MLOS: Added Sandy Marina Beaches and Boathouse. Added New BCSO Sheriff Station & Sandy Hospital. Added Sandy Houses
 •  VEHICLES: Added SAMS Jeep
+•  NOTIFICATIONS: Added new VMS notifications!
+•  SMOKING: Added vapes to SMOking shop!
 
 🟡 CHANGED
 •  RESOURCE UPDATES: Updated VMS Driveschool, Flight School, and Boating School. Fishing Simulator. BCS_Housing. CS_WalkieTalkie. JG-Dealerships & AdvancedGarages. TGG-Banking. LB Phone. bob_ipl. z_fire PPVfan. z_fire. z_hose. Pixel Consumables. Lation Weed. RCORE Clothing. Updated rlottery
 •  LIB/BRIDGE UPDATES: Updated lc utils. Renewed-Lib.
 •  BUTCHER JOB: Made butcher job deliverys even more payout!
-•  VEHICLE HANDLING: Modified w204 Escapade (suggestion). Modified multiple motorcycle handlings
+•  VEHICLE HANDLING: Modified w204 Escapade (suggestion). Modified multiple motorcycle handlings. Modified Raiden handling (suggestion).
 •  DISCOVERABLE BLIPS: Adjusted saving time to 5 minutes instead of 30 seconds.
-•  MAPS/MLOS: Updated Train Station. Mirror Park houses. Sandy Airfield
+•  MAPS/MLOS: Updated Train Station. Mirror Park houses. Sandy Airfield. Cinema
 •  FISHING: Modified owned properties to last around a month. You must upkeep them!
 •  BLACKMARKET: Modified and updated for buying and selling!
 •  GTA5META: Merged GTA5 Meta files
-•  Added the current PD issued handgun to ignore list so we don't steal keys from peds as we chase them!
+•  WEAPONS: Added the current PD issued handgun to ignore list so we don't steal keys from peds as we chase them!
+•  CLOTHING: Added changing room for SOA (suggestion)
+•  TRUCKING JOB: Modified distance checks for trucking (suggestion)
+•  VEHICLE KEYS: Bicycles can now be locked (suggestion)
+•  HUD: Modified to where bicycles and trains no longer show fuel alert (as they take no fuel). Modified fuel low sound.
 
 🟢 FIXES
 ✔️ BLACK MARKET: Fixed black market map
