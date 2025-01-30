@@ -3,13 +3,16 @@ Version 2.14
 🟣 ADDED
 •  MECHANIC NOTIFICATION: Notification gets sent to currently on-duty job when order comes in
 •  JIM CONSUMABLES: Is back!
+•  SIT: Keeping our current sit script. Added some seating compatiblity to Vanilla Unicorn seats.
 
 🟡 CHANGED
 •  LB PHONE: Updated and re-added HOME app.
-•  RESOURCE UPDATES: Updated r_hbucket. z_ppvfan. z_hose. z_fire
-•  LIB/BRIDGE UPDATES: Updated r_bridge. NGD_Bridge
+•  RESOURCE UPDATES: Updated r_hbucket. z_ppvfan. z_hose. z_fire. woosh_pd. OSP Ambulance. Crafting Bench
+•  MAP/MLO UPDATES: Updated k4mb1 casino
+•  LIB/BRIDGE UPDATES: Updated r_bridge. NGD_Bridge. Wasabi Bridge
 •  SNIPE MICROPHONES: Modified to make it where you have to toggle microphone on now.
 •  CITY HALL: Modified it where taxes are automatically applied to store purchases instead of paying at City Hall
+•  SERVER: Modified some max limits for server performance.
 
 🟢 FIXES
 ✔️ --: --
