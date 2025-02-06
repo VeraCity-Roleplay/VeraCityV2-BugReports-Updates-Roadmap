@@ -6,23 +6,30 @@ Version 2.14
 •  SIT: Keeping our current sit script. Added some seating compatiblity to Vanilla Unicorn seats. Also modified TextUI for it.
 •  SAFR: Added 23 GMC and Tahoe to fleet.
 •  VEHICLES: Added Dyne back into the city!
+•  KEEP VEHICLE ENGINE RUNNING: Added this feature so if you hold F it keeps your door open to vehicle.
 
 🟡 CHANGED
 •  LB PHONE: Updated and re-added HOME app.
 •  RESOURCE UPDATES: Updated r_hbucket. z_ppvfan. z_hose. z_fire. woosh_pd. OSP Ambulance. Crafting Bench. UM-Tutorial
-•  MAP/MLO UPDATES: Updated k4mb1 casino
+•  MAP/MLO UPDATES: Updated k4mb1 casino. SmoKINGs
 •  LIB/BRIDGE UPDATES: Updated r_bridge. NGD_Bridge. Wasabi Bridge
 •  SNIPE MICROPHONES: Modified to make it where you have to toggle microphone on now.
 •  CITY HALL: Modified it where taxes are automatically applied to store purchases instead of paying at City Hall
 •  SERVER: Modified some max limits for server performance.
-•  UWU CAT CAFE: Made some more changes for UwU Cat Cafe
+•  UWU CAT CAFE: Made some more changes for UwU Cat Cafe. Updated
+•  SPEAKER SHOPS: Modified to where we can have multiple speaker shops
+•  HANDLING: Fixed Youga3 (Youga Classic 4x4)
 
 🟢 FIXES
-✔️ --: --
+✔️ TVS: Made tvs operational again. Hopefully dev can fix it where we can use preset tv defaults at some point.
+✔️ CASINO: Fixed casino society for tgg-banking!
+✔️ VMS NOTIFY: Dev fixed the presets for notifys. Enjoy! Use /customizenotify or use your radial menu to access the menu!
+✔️ TEXTURE OPTIMIZATION: Optimized ecg texture, Zeus Gym texture, Exotic Motorcycle dealer texture, Chillad & Calafia roads, Smokingz, Strokemasters(Outlaw P), White Widow
 
 🔴 REMOVED
-❌ MAPS/MLO: Removed Digital Den due to mapping issues with Mirror Park houses.
+❌ MAPS/MLO: Removed Digital Den due to mapping issues with Mirror Park houses. Removed pier cafe (we were not using it)
 ❌ PIXEL CONSUMABLES: Removed due to conflicts with sitting
+❌ WALKSHAKE: Removed due to possible performance issues
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
