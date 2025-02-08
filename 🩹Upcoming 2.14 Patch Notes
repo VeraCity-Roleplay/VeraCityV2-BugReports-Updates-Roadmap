@@ -5,12 +5,14 @@ Version 2.14
 •  JIM CONSUMABLES: Is back!
 •  SIT: Keeping our current sit script. Added some seating compatiblity to Vanilla Unicorn seats. Also modified TextUI for it.
 •  SAFR: Added 23 GMC and Tahoe to fleet.
-•  VEHICLES: Added Dyne back into the city!
-•  KEEP VEHICLE ENGINE RUNNING: Added this feature so if you hold F it keeps your door open to vehicle.
+•  VEHICLES: Added Dyne back into the city! Added Dyne Engine Sound
+•  COFFEE POT MACHINE: Added the coffee pot machine you see in the world to ox inventory shops. You can buy basic coffee from it now!
 
 🟡 CHANGED
+•  QBX: Updated
 •  LB PHONE: Updated and re-added HOME app.
-•  RESOURCE UPDATES: Updated r_hbucket. z_ppvfan. z_hose. z_fire. woosh_pd. OSP Ambulance. Crafting Bench. UM-Tutorial
+•  RESOURCE UPDATES: Updated r_hbucket. z_ppvfan. z_hose. z_fire. woosh_pd. OSP Ambulance. Crafting Bench. UM-Tutorial. TGG-Banking. BCS Housing
+•  OX INVENTORY: Updated and now using a redesign!. We also modified it where it shows players names now if multiple people are around when trying to give an item!
 •  MAP/MLO UPDATES: Updated k4mb1 casino. SmoKINGs
 •  LIB/BRIDGE UPDATES: Updated r_bridge. NGD_Bridge. Wasabi Bridge
 •  SNIPE MICROPHONES: Modified to make it where you have to toggle microphone on now.
