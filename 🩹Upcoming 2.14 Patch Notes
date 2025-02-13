@@ -7,11 +7,14 @@ Version 2.14
 •  SAFR: Added 23 GMC and Tahoe to fleet.
 •  VEHICLES: Added Dyne back into the city! Added Dyne Engine Sound
 •  COFFEE POT MACHINE: Added the coffee pot machine you see in the world to ox inventory shops. You can buy basic coffee from it now!
+•  LIB/BRIDGE: Added fmLib for upcoming RX Mining
+•  FUEL: Added rcore fuel!
 
 🟡 CHANGED
 •  QBX: Updated
 •  LB PHONE: Updated and re-added HOME app.
-•  RESOURCE UPDATES: Updated r_hbucket. z_ppvfan. z_hose. z_fire. woosh_pd. OSP Ambulance. Crafting Bench. UM-Tutorial. TGG-Banking. BCS Housing. Zyke Smoking. Lation Detecting. CS Walkie Talkie
+•  RESOURCE UPDATES: Updated r_hbucket. z_ppvfan. z_hose. z_fire. woosh_pd. OSP Ambulance. Crafting Bench. UM-Tutorial. TGG-Banking. BCS Housing. Zyke Smoking. Lation Detecting. CS Walkie Talkie. VMS Boss Menu.
+•  JG Mechanic: Updated JG Mechanic with his handling & now new Manual Transmission. Check out the video below for more!
 •  OX INVENTORY: Updated and now using a redesign!. We also modified it where it shows players names now if multiple people are around when trying to give an item!
 •  MAP/MLO UPDATES: Updated k4mb1 casino. SmoKINGs
 •  LIB/BRIDGE UPDATES: Updated r_bridge. NGD_Bridge. Wasabi Bridge. Zyke Lib
@@ -20,18 +23,22 @@ Version 2.14
 •  SERVER: Modified some max limits for server performance.
 •  UWU CAT CAFE: Made some more changes for UwU Cat Cafe. Updated
 •  SPEAKER SHOPS: Modified to where we can have multiple speaker shops
-•  HANDLING: Fixed Youga3 (Youga Classic 4x4)
+•  HANDLING: Fixed Youga3 (Youga Classic 4x4). Changed all weights for current Tow Trucks
+•  TEXTUI: Multiple resources have been modified to VMS ShowTextUI, more to come!
 
 🟢 FIXES
 ✔️ TVS: Made tvs operational again. Hopefully dev can fix it where we can use preset tv defaults at some point.
 ✔️ CASINO: Fixed casino society for tgg-banking!
-✔️ VMS NOTIFY: Dev fixed the presets for notifys. Enjoy! Use /customizenotify or use your radial menu to access the menu!
+✔️ VMS NOTIFY: Dev fixed the presets for notifys. Enjoy! Use /customizenotify or use your radial menu to access the menu! Improved many notifys across multiple scripts.
 ✔️ TEXTURE OPTIMIZATION: Optimized ecg texture, Zeus Gym texture, Exotic Motorcycle dealer texture, Chillad & Calafia roads, Smokingz, Strokemasters(Outlaw P), White Widow
+✔️ ZYKE SMOKING: Cigarette Packs do not close in inventory when using. QOL
+✔️ DIVING & METAL DETECTING: Improved notifications & textui (still WIP as it could probably be done better)
 
 🔴 REMOVED
 ❌ MAPS/MLO: Removed Digital Den due to mapping issues with Mirror Park houses. Removed pier cafe (we were not using it)
 ❌ PIXEL CONSUMABLES: Removed due to conflicts with sitting
 ❌ WALKSHAKE: Removed due to possible performance issues
+❌ TAM FUEL: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
