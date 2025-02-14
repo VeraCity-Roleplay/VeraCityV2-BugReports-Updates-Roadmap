@@ -1,50 +1,44 @@
-Version 2.13
+Version 2.14
 
 🟣 ADDED
-•  DRIVE SCHOOL: Added seatbelt check to driving school
-•  WEAPONS: Added X19 for BCSO
-•  CRAFTING TABLES: Added new crafting tables
-•  STASHES: Added new stash for Outlaw Performance (suggestion). Added back the stash for SAMS at Vespucci Station (suggestion).
-•  EVIDENCE LOCKERS: Added new evidence locker for BCSO
-•  RCORE BANNERS: Added rcore banners for business and government advertising!
-•  DYNO MACHINE: Added Dyno Machines for Tuners!
-•  MAPS/MLOS: Added Sandy Marina Beaches and Boathouse. Added New BCSO Sheriff Station & Sandy Hospital. Added Sandy Houses
-•  VEHICLES: Added SAMS Jeep
-•  NOTIFICATIONS: Added new VMS notifications!
-•  SMOKING: Added vapes to SMOking shop!
-•  ELEVATORS: Added new synced elevators
-•  TRAFFIC CONTROL FOR LAW ENFORCEMENT: Added new traffic control option to job menu
-•  SAMS: Added EMS bag for SAMS/Hospital
-•  CLOTHING: Added multiple female clothing + hairs!
-•  ROXWOOD EXPANSION: Added ROXWOOD EXPANSION!
+•  MECHANIC NOTIFICATION: Notification gets sent to currently on-duty job when order comes in
+•  JIM CONSUMABLES: Is back!
+•  SIT: Keeping our current sit script. Added some seating compatiblity to Vanilla Unicorn seats. Also modified TextUI for it.
+•  SAFR: Added 23 GMC and Tahoe to fleet.
+•  VEHICLES: Added Dyne back into the city! Added Dyne Engine Sound
+•  COFFEE POT MACHINE: Added the coffee pot machine you see in the world to ox inventory shops. You can buy basic coffee from it now!
+•  LIB/BRIDGE: Added fmLib for upcoming RX Mining
+•  FUEL: Added rcore fuel!
 
 🟡 CHANGED
-•  RESOURCE UPDATES: Updated VMS Driveschool, Flight School, and Boating School. Fishing Simulator. BCS_Housing. CS_WalkieTalkie. JG-Dealerships & AdvancedGarages. TGG-Banking. LB Phone. bob_ipl. z_fire PPVfan. z_fire. z_hose. Pixel Consumables. Lation Weed. RCORE Clothing. Updated rlottery. JG Mechanic
-•  LIB/BRIDGE UPDATES: Updated lc utils. Renewed-Lib.
-•  BUTCHER JOB: Made butcher job deliverys even more payout!
-•  VEHICLE HANDLING: Modified w204 Escapade (suggestion). Modified multiple motorcycle handlings. Modified Raiden handling (suggestion). Modified Hakuchou Shitzu & Shinobi Nagasaki handling (suggestion).
-•  DISCOVERABLE BLIPS: Adjusted saving time to 5 minutes instead of 30 seconds.
-•  MAPS/MLOS: Updated Train Station. Mirror Park houses. Sandy Airfield. Cinema
-•  FISHING: Modified owned properties to last around a month. You must upkeep them!
-•  BLACKMARKET: Modified and updated for buying and selling!
-•  GTA5META: Merged GTA5 Meta files
-•  WEAPONS: Added the current PD issued handgun to ignore list so we don't steal keys from peds as we chase them!
-•  CLOTHING: Added changing room for SOA (suggestion)
-•  TRUCKING JOB: Modified distance checks for trucking (suggestion)
-•  VEHICLE KEYS: Bicycles can now be locked (suggestion)
-•  HUD: Modified to where bicycles and trains no longer show fuel alert (as they take no fuel). Modified fuel low sound.
-•  RAHE SPEAKERS: Working jukebox at Bowling place (suggestion).
+•  QBX: Updated
+•  LB PHONE: Updated and re-added HOME app.
+•  RESOURCE UPDATES: Updated r_hbucket. z_ppvfan. z_hose. z_fire. woosh_pd. OSP Ambulance. Crafting Bench. UM-Tutorial. TGG-Banking. BCS Housing. Zyke Smoking. Lation Detecting. CS Walkie Talkie. VMS Boss Menu.
+•  JG Mechanic: Updated JG Mechanic with his handling & now new Manual Transmission. Check out the video below for more!
+•  OX INVENTORY: Updated and now using a redesign!. We also modified it where it shows players names now if multiple people are around when trying to give an item!
+•  MAP/MLO UPDATES: Updated k4mb1 casino. SmoKINGs
+•  LIB/BRIDGE UPDATES: Updated r_bridge. NGD_Bridge. Wasabi Bridge. Zyke Lib
+•  SNIPE MICROPHONES: Modified to make it where you have to toggle microphone on now.
+•  CITY HALL: Modified it where taxes are automatically applied to store purchases instead of paying at City Hall
+•  SERVER: Modified some max limits for server performance.
+•  UWU CAT CAFE: Made some more changes for UwU Cat Cafe. Updated
+•  SPEAKER SHOPS: Modified to where we can have multiple speaker shops
+•  HANDLING: Fixed Youga3 (Youga Classic 4x4). Changed all weights for current Tow Trucks
+•  TEXTUI: Multiple resources have been modified to VMS ShowTextUI, more to come!
 
 🟢 FIXES
-✔️ BLACK MARKET: Fixed black market map
-✔️ RPEMOTES: Fixed shared emotes keybindings. You have to reset your own
-✔️ SH K9: CURRENTLY DEV does not have a auto save feature.. you have to use /k9save
-✔️ CAMEL TOWING: Tow lot entrance not accessible was fixed.
-✔️ MISC ISSUES: Fixed meth table issue. Fixed lottery jackpot not going up.
+✔️ TVS: Made tvs operational again. Hopefully dev can fix it where we can use preset tv defaults at some point.
+✔️ CASINO: Fixed casino society for tgg-banking!
+✔️ VMS NOTIFY: Dev fixed the presets for notifys. Enjoy! Use /customizenotify or use your radial menu to access the menu! Improved many notifys across multiple scripts.
+✔️ TEXTURE OPTIMIZATION: Optimized ecg texture, Zeus Gym texture, Exotic Motorcycle dealer texture, Chillad & Calafia roads, Smokingz, Strokemasters(Outlaw P), White Widow
+✔️ ZYKE SMOKING: Cigarette Packs do not close in inventory when using. QOL
+✔️ DIVING & METAL DETECTING: Improved notifications & textui (still WIP as it could probably be done better)
 
 🔴 REMOVED
-❌ BS_BLACKMARKET: Removed unused blackmarket script
-❌ CLOTHING & ROLLER BLADES: Removed PATA roller blading and skates
+❌ MAPS/MLO: Removed Digital Den due to mapping issues with Mirror Park houses. Removed pier cafe (we were not using it)
+❌ PIXEL CONSUMABLES: Removed due to conflicts with sitting
+❌ WALKSHAKE: Removed due to possible performance issues
+❌ TAM FUEL: Removed
 
 🔵 DISCORDIA/WEBSITE
-•  PERMISSIONS: Fixed multiple channel permissions
+•  BUSINESS AND GANG DISCORDS: We have cleaned up discords and now just have 3 Main Discords!
