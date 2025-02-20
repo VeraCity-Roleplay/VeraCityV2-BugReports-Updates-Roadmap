@@ -5,6 +5,11 @@ Version 2.15
 
 🟡 CHANGED
 •  MECHANIC: Cleaning Kit has now been made available to the public at YouTool! Much quicker to go through a car wash!
+•  MEGAPHONE: Modified sound effect
+•  MLOS/YMAP: Updated Rising Sun
+•  AI TAXI: Added a spawn point up top for the airport
+•  VEHICLE DAMAGE: Lowered global damage multipler
+•  SUGGESTIONS: Added "Wheel Clamp Key" as item available to be put on Key Ring. Fixed character spawn for more lighting. (Suggested by typicaltilly) 
 
 🟢 FIXES
 ✔️ HOSPITAL: Automatic Healing on player load has been fixed
