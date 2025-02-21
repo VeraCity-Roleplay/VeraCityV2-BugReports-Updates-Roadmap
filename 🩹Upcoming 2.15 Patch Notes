@@ -1,21 +1,35 @@
 Version 2.15
 
 🟣 ADDED
-•  --: --
+•  BEER PONG: Added Beer Pong game (goes with Rcore Drunk) You can place the game where you'd like with "Beer Pong Cups" item
+•  MLO/MAPS: Added new MC Club
 
 🟡 CHANGED
 •  MECHANIC: Cleaning Kit has now been made available to the public at YouTool! Much quicker to go through a car wash!
 •  MEGAPHONE: Modified sound effect
 •  MLOS/YMAP: Updated Rising Sun
 •  AI TAXI: Added a spawn point up top for the airport
+•  VEHICLES: Changed Bifta, Raptor, Vagrant, Outlaw to "Compacts" and placed in PDM.
+•  BOATS: Trunks are impossible for boats. So we expanded the glovebox for all boats. If its a small boat or wouldn't seem it has storage don't be surprised if we lower the amount in it. However all Dinghys are set with their amount. Big boats have a massive glovebox!
+•  VEHICLE HANDLING: Modified LP Chopper
 •  VEHICLE DAMAGE: Lowered global damage multipler
+•  PUG SLING: Began adding multiple weapons/items. Fixed up sling notification + progress bar
 •  SUGGESTIONS: Added "Wheel Clamp Key" as item available to be put on Key Ring. Fixed character spawn for more lighting. (Suggested by typicaltilly) 
+•  DEALERSHIPS: Updated. Floating vehicles fixed. Added VMS notifications and show text ui. Added a few more color options on purchase
+•  MECHANICS: Updated. All new inventory icons from the awesome team at Artwork Inventory! Fix manual transmission being overwritten by other tunes. Allow vec4 in shops/stashes to position peds in the desired direction. Remove peds on resource stop/restart
+•  RESOURCE UPDATES: VMS Boss Menu updated
+•  FISHING: Made Storage Upkeep last longer.
 
 🟢 FIXES
 ✔️ HOSPITAL: Automatic Healing on player load has been fixed
+✔️ VEHICLE CONTROL: Fixed being able to start a vehicle without a key
+✔️ LEAVE ENGINE RUNNING: Fixed being able to start a vehicle without a key
+✔️ CONSUMABLES: Fixed some the UwU Bowl/Disk food emotes. Will probably modify these more with more appealing models.
+✔️ BOATING: Fixed boat prices
 
 🔴 REMOVED
 ❌ --: --
 
 🔵 DISCORDIA/WEBSITE
-•  --: --
+•  INVITE: Fixed the welcome channel so all users can invite people
+•  MENTORSHIP PROGRAM: Decreased from 30 days to 15 days
