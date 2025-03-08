@@ -7,6 +7,7 @@ Version 2.15
 •  CLOTHING UPDATED: Added multiple community suggestions! Added hospital gowns! Re-designed SOA vests and added BOB vests!
 •  WEAPONS: Added X19 and PM4 to Law Enforcement Arsenal.
 •  LIB/BRIDGE: Added kq_link for preperation of roofboxes
+•  EMOTES: Switched to RP Emotes Reborn + Added Tactical Poses for LEO. Added more female model poses
 
 🟡 CHANGED
 •  MECHANIC: Cleaning Kit has now been made available to the public at YouTool! Much quicker to go through a car wash!
@@ -30,6 +31,8 @@ Version 2.15
 •  CRIMINAL ACTIVITIES: Changed levels of all criminal related activites to 30
 •  WEED: Increased XP gains for all actions.
 •  SERVER SIDE LIGHTING: Modified emissives.. wont be so bright now default.
+•  WINCHING: Made it where motorcycles and vans can be winched. We tested this further and it does go off weight of the vehicles.
+•  LAUNDERING: Modified levels and xp gains.
 
 🟢 FIXES
 ✔️ HOSPITAL: Automatic Healing on player load has been fixed
