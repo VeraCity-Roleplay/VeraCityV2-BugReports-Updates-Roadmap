@@ -8,13 +8,14 @@ Version 2.15
 •  WEAPONS: Added X19 and PM4 to Law Enforcement Arsenal.
 •  LIB/BRIDGE: Added kq_link for preperation of roofboxes
 •  EMOTES: Switched to RP Emotes Reborn + Added Tactical Poses for LEO. Added more female model poses
+•  VEHICLES: Added UwU Cat Cafe Work Van
 
 🟡 CHANGED
 •  MECHANIC: Cleaning Kit has now been made available to the public at YouTool! Much quicker to go through a car wash!
 •  MEGAPHONE: Modified sound effect
 •  MLOS/YMAP: Updated Rising Sun, Added parking lights to Outlaw Performance (suggestion by ToxicPanda910), Updated Marina Beaches.
 •  AI TAXI: Added a spawn point up top for the airport
-•  VEHICLES: Changed Bifta, Raptor, Vagrant, Outlaw to "Compacts" and placed in PDM.
+•  VEHICLES: Changed Bifta, Raptor, Vagrant, Outlaw to "Compacts" and placed in PDM. Optimized some of bcsoULC pack.
 •  BOATS: Trunks are impossible for boats. So we expanded the glovebox for all boats. If its a small boat or wouldn't seem it has storage don't be surprised if we lower the amount in it. However all Dinghys are set with their amount. Big boats have a massive glovebox! (Suggestion by bubbadoh)
 •  VEHICLE HANDLING: Modified LP Chopper
 •  VEHICLE DAMAGE: Lowered global damage multipler
