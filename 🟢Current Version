@@ -1,44 +1,59 @@
-Version 2.14
+Version 2.15
 
 🟣 ADDED
-•  MECHANIC NOTIFICATION: Notification gets sent to currently on-duty job when order comes in
-•  JIM CONSUMABLES: Is back!
-•  SIT: Keeping our current sit script. Added some seating compatiblity to Vanilla Unicorn seats. Also modified TextUI for it.
-•  SAFR: Added 23 GMC and Tahoe to fleet.
-•  VEHICLES: Added Dyne back into the city! Added Dyne Engine Sound
-•  COFFEE POT MACHINE: Added the coffee pot machine you see in the world to ox inventory shops. You can buy basic coffee from it now!
-•  LIB/BRIDGE: Added fmLib for upcoming RX Mining
-•  FUEL: Added rcore fuel!
+•  BEER PONG: Added Beer Pong game (goes with Rcore Drunk) You can place the game where you'd like with "Beer Pong Cups" item
+•  MLO/MAPS: Added new MC Club
+•  CRIMINAL ACTIVITY: Added LATION COKE!
+•  CLOTHING UPDATED: Added multiple community suggestions! Added hospital gowns! Re-designed SOA vests and added BOB vests!
+•  WEAPONS: Added X19 and PM4 to Law Enforcement Arsenal.
+•  LIB/BRIDGE: Added kq_link for preperation of roofboxes
+•  EMOTES: Switched to RP Emotes Reborn + Added Tactical Poses for LEO. Added more female model poses
+•  VEHICLES: Added UwU Cat Cafe Work Van
 
 🟡 CHANGED
-•  QBX: Updated
-•  LB PHONE: Updated and re-added HOME app.
-•  RESOURCE UPDATES: Updated r_hbucket. z_ppvfan. z_hose. z_fire. woosh_pd. OSP Ambulance. Crafting Bench. UM-Tutorial. TGG-Banking. BCS Housing. Zyke Smoking. Lation Detecting. CS Walkie Talkie. VMS Boss Menu.
-•  JG Mechanic: Updated JG Mechanic with his handling & now new Manual Transmission. Check out the video below for more!
-•  OX INVENTORY: Updated and now using a redesign!. We also modified it where it shows players names now if multiple people are around when trying to give an item!
-•  MAP/MLO UPDATES: Updated k4mb1 casino. SmoKINGs
-•  LIB/BRIDGE UPDATES: Updated r_bridge. NGD_Bridge. Wasabi Bridge. Zyke Lib
-•  SNIPE MICROPHONES: Modified to make it where you have to toggle microphone on now.
-•  CITY HALL: Modified it where taxes are automatically applied to store purchases instead of paying at City Hall
-•  SERVER: Modified some max limits for server performance.
-•  UWU CAT CAFE: Made some more changes for UwU Cat Cafe. Updated
-•  SPEAKER SHOPS: Modified to where we can have multiple speaker shops
-•  HANDLING: Fixed Youga3 (Youga Classic 4x4). Changed all weights for current Tow Trucks
-•  TEXTUI: Multiple resources have been modified to VMS ShowTextUI, more to come!
+•  MECHANIC: Cleaning Kit has now been made available to the public at YouTool! Much quicker to go through a car wash!
+•  MEGAPHONE: Modified sound effect
+•  MLOS/YMAP: Updated Rising Sun, Added parking lights to Outlaw Performance (suggestion by ToxicPanda910), Updated Marina Beaches.
+•  AI TAXI: Added a spawn point up top for the airport
+•  VEHICLES: Changed Bifta, Raptor, Vagrant, Outlaw to "Compacts" and placed in PDM. Optimized some of bcsoULC pack.
+•  BOATS: Trunks are impossible for boats. So we expanded the glovebox for all boats. If its a small boat or wouldn't seem it has storage don't be surprised if we lower the amount in it. However all Dinghys are set with their amount. Big boats have a massive glovebox! (Suggestion by bubbadoh)
+•  VEHICLE HANDLING: Modified LP Chopper
+•  VEHICLE DAMAGE: Lowered global damage multipler
+•  PUG SLING: Began adding multiple weapons/items. Fixed up sling notification + progress bar
+•  SUGGESTIONS: Added "Wheel Clamp Key" as item available to be put on Key Ring. Fixed character spawn for more lighting. (Suggested by typicaltilly) 
+•  DEALERSHIPS: Updated. Floating vehicles fixed. Added VMS notifications and show text ui. Added a few more color options on purchase
+•  MECHANICS: Updated. All new inventory icons from the awesome team at Artwork Inventory! Fix manual transmission being overwritten by other tunes. Allow vec4 in shops/stashes to position peds in the desired direction. Remove peds on resource stop/restart
+•  RESOURCE UPDATES: Updated VMS Boss Menu, reFlow Hunting, um-chat, Lation Weed, Lation Selling, Lation Meth, VMS City Hall, RCORE Clothing, SCBA, z_fire, LB Tablet, LB Phone, VMS Documents
+•  LIB/BRIDGE UPDATES: Updated is_lib, is_bridge, lc_utils
+•  FISHING: Made Storage Upkeep last longer.
+•  TRUCKING LOGISTICS: Lowered from 180 to 120 (Suggestion by metalcage)
+•  DRIVING TEST: Improved test questions for all tests. Made sure they were all listed correctly. (Suggestion by community)
+•  TXADMIN ANNOUNCEMENT: Testing to see if VMS Top Notification works for TX ADMIN Announcements.
+•  CRIMINAL ACTIVITIES: Changed levels of all criminal related activites to 30
+•  WEED: Increased XP gains for all actions.
+•  SERVER SIDE LIGHTING: Modified emissives.. wont be so bright now default.
+•  WINCHING: Made it where motorcycles and vans can be winched. We tested this further and it does go off weight of the vehicles.
+•  LAUNDERING: Modified levels and xp gains.
+•  HOUSING: Increased Safe 2 storage slots and weight.
 
 🟢 FIXES
-✔️ TVS: Made tvs operational again. Hopefully dev can fix it where we can use preset tv defaults at some point.
-✔️ CASINO: Fixed casino society for tgg-banking!
-✔️ VMS NOTIFY: Dev fixed the presets for notifys. Enjoy! Use /customizenotify or use your radial menu to access the menu! Improved many notifys across multiple scripts.
-✔️ TEXTURE OPTIMIZATION: Optimized ecg texture, Zeus Gym texture, Exotic Motorcycle dealer texture, Chillad & Calafia roads, Smokingz, Strokemasters(Outlaw P), White Widow
-✔️ ZYKE SMOKING: Cigarette Packs do not close in inventory when using. QOL
-✔️ DIVING & METAL DETECTING: Improved notifications & textui (still WIP as it could probably be done better)
+✔️ HOSPITAL: Automatic Healing on player load has been fixed
+✔️ VEHICLE CONTROL: Fixed being able to start a vehicle without a key
+✔️ LEAVE ENGINE RUNNING: Fixed being able to start a vehicle without a key
+✔️ CONSUMABLES: Fixed some the UwU Bowl/Disk food emotes. Will probably modify these more with more appealing models.
+✔️ BOATING: Fixed boat prices
+✔️ FREELANCE JOBS: Fixed your original clothing not resetting
+✔️ ZYKE SMOKING: Fixed the lation weed strains not being smokable
+✔️ NOTIFICATIONS: Fixed hunger/thirst notification. Started fixing up casino notifications. Stress notification (driving).
+✔️ BLIPS: Fixed up some blips
+✔️ MLO/YMAPS: Fixed compatibility between clubhouse_harmony and dnx senora roads
 
 🔴 REMOVED
-❌ MAPS/MLO: Removed Digital Den due to mapping issues with Mirror Park houses. Removed pier cafe (we were not using it)
-❌ PIXEL CONSUMABLES: Removed due to conflicts with sitting
-❌ WALKSHAKE: Removed due to possible performance issues
-❌ TAM FUEL: Removed
+❌ QBX EXTRAS: Map emote was annoying.. Hunger & Thirst not optimized. All good now ^_^
+❌ MLO/YMAPS: Family Pharmacy
 
 🔵 DISCORDIA/WEBSITE
-•  BUSINESS AND GANG DISCORDS: We have cleaned up discords and now just have 3 Main Discords!
+•  INVITE: Fixed the welcome channel so all users can invite people
+•  MENTORSHIP PROGRAM: Decreased from 30 days to 15 days
+•  DRIVING TEST GUIDEBOOKS: Created a "base" to work with for driving test guidebooks
+•  VERACITY GUIDEBOOK: Modified 5.2, 5.6 and roleplay rules pages.
