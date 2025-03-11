@@ -1,11 +1,12 @@
 Version 2.16
 
 🟣 ADDED
-•  --: --
+•  VEHICLES: Added Sandking Dually!
 
 🟡 CHANGED
-•  SERVER ARTIFACT: Updated server artifact to 13068
-•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL.
+•  SERVER ARTIFACT: Updated server artifact to 13068.
+•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan.
+•  VEHICLE KEYS: Lowered percentages of locked AI vehicles and locked local vehicles in general.
 
 🟢 FIXES
 ✔️ --: --
