@@ -6,13 +6,15 @@ Version 2.16
 🟡 CHANGED
 •  SERVER ARTIFACT: Updated server artifact to 13068.
 •  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan.
+•  DRUG RESOURCE UPDATES: Updated Weed, Coke, and Meth! (NOW HAS CERTAIN ITEM MERGING as in durability)
 •  VEHICLE KEYS: Lowered percentages of locked AI vehicles and locked local vehicles in general.
+•  TUTORIAL: Finally got tutorial going again. Modified it some. Will work on it as time goes on!
 
 🟢 FIXES
 ✔️ --: --
 
 🔴 REMOVED
-❌ --: --
+❌ QBX TELEPORTS: We were not using it.
 
 🔵 DISCORDIA/WEBSITE
-•  --: --
+•  WHITELIST APPLICATION: Added note about if user edits their answer after submitting then we won't be able to see it.
