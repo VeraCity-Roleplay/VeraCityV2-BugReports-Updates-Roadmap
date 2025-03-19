@@ -2,13 +2,17 @@ Version 2.16
 
 🟣 ADDED
 •  VEHICLES: Added Sandking Dually!
+•  SAFR: Added ULC Velocity Rescue Firetruck!
+•  MLO/YMAP: Added the new Pinkcage!
 
 🟡 CHANGED
 •  SERVER ARTIFACT: Updated server artifact to 13068.
-•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan.
+•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan, smash&grab, OSP AMBULANCE, Wasabi Police.
+•  LIB/BRIDGE UPDATES: Updated r_bridge,
 •  DRUG RESOURCE UPDATES: Updated Weed, Coke, and Meth! (NOW HAS CERTAIN ITEM MERGING as in durability)
 •  VEHICLE KEYS: Lowered percentages of locked AI vehicles and locked local vehicles in general.
 •  TUTORIAL: Finally got tutorial going again. Modified it some. Will work on it as time goes on!
+•  CITY HALL: Lowered Vehicle Insurance prices drastically (it will always be based on the price of your vehicle)
 
 🟢 FIXES
 ✔️ --: --
