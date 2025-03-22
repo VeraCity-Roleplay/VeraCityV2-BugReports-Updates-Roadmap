@@ -7,16 +7,17 @@ Version 2.16
 
 🟡 CHANGED
 •  SERVER ARTIFACT: Updated server artifact to 13068.
-•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan, smash&grab, OSP AMBULANCE, Wasabi Police, VMS Documents, tk_jail, LB Tablet, LB Phone, cs_documents.
+•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan, smash&grab, OSP AMBULANCE, Wasabi Police, VMS Documents, tk_jail, LB Tablet, LB Phone, cs_documents, Lation Laundering.
 •  LIB/BRIDGE UPDATES: Updated r_bridge, is_lib, is_bridge.
-•  DRUG RESOURCE UPDATES: Updated Weed, Coke, and Meth! (NOW HAS CERTAIN ITEM MERGING as in durability)
+•  DRUG RESOURCE UPDATES: Updated Weed, Coke, and Meth! (NOW HAS CERTAIN ITEM MERGING as in durability). A few hotfixes from dev fixed the inital patch of merging the items.
 •  VEHICLE KEYS: Lowered percentages of locked AI vehicles and locked local vehicles in general.
 •  TUTORIAL: Finally got tutorial going again. Modified it some. Will work on it as time goes on!
 •  CITY HALL: Lowered Vehicle Insurance prices drastically (it will always be based on the price of your vehicle)
 •  CONSUMABLES: Made hunger + thirst last longer. Made restaurant food/drink boost completely!
 
 🟢 FIXES
-✔️ UwU Cat Cafe: Fixed it where they were not receiving money from purchases. Compensated for such.
+✔️ UWU CAT CAFE: Fixed it where they were not receiving money from purchases. Compensated for such.
+✔️ RX MINING: Fixed various minor issues. Fixed not being able to drop piles off into trucks.
 
 🔴 REMOVED
 ❌ QBX TELEPORTS: We were not using it.
