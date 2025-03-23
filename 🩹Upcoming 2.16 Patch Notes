@@ -3,11 +3,12 @@ Version 2.16
 🟣 ADDED
 •  VEHICLES: Added Sandking Dually!
 •  SAFR: Added ULC Velocity Rescue Firetruck!
-•  MLO/YMAP: Added the new Pinkcage!
+•  MLO/YMAP: Added the new Pinkcage! Added new Pillbox!
+•  EMERGENCY CALL HANDLER: You are now able to call a dispatcher by calling 911 on your phone! If no one answers, you can send a dispatch to a particular agency or multiple!
 
 🟡 CHANGED
 •  SERVER ARTIFACT: Updated server artifact to 13068.
-•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan, smash&grab, OSP AMBULANCE, Wasabi Police, VMS Documents, tk_jail, LB Tablet, LB Phone, cs_documents, Lation Laundering.
+•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan, smash&grab, OSP AMBULANCE, Wasabi Police, VMS Documents, tk_jail, LB Tablet, LB Phone, cs_documents, Lation Laundering, RTX Themepark
 •  LIB/BRIDGE UPDATES: Updated r_bridge, is_lib, is_bridge.
 •  DRUG RESOURCE UPDATES: Updated Weed, Coke, and Meth! (NOW HAS CERTAIN ITEM MERGING as in durability). A few hotfixes from dev fixed the inital patch of merging the items.
 •  VEHICLE KEYS: Lowered percentages of locked AI vehicles and locked local vehicles in general.
@@ -21,6 +22,9 @@ Version 2.16
 
 🔴 REMOVED
 ❌ QBX TELEPORTS: We were not using it.
+❌ BOB_IPLS: Removed stripclub + pillbox bob ipls. (This may increase performance!)
+❌ MLO/YMAP: Removed Central Hospital
+❌ PICKLE WAYPOINTS: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  WHITELIST APPLICATION: Added note about if user edits their answer after submitting then we won't be able to see it.
