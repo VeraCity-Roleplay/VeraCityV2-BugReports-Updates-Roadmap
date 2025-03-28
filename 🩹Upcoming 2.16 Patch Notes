@@ -1,20 +1,21 @@
 Version 2.16
 
 🟣 ADDED
-•  VEHICLES: Added Sandking Dually!
+•  VEHICLES: Added Sandking Dually! Added Bell 206L for AIR ONES!
 •  SAFR: Added ULC Velocity Rescue Firetruck!
 •  MLO/YMAP: Added the new Pinkcage! Added new Pillbox!
 •  EMERGENCY CALL HANDLER: You are now able to call a dispatcher by calling 911 on your phone! If no one answers, you can send a dispatch to a particular agency or multiple!
 
 🟡 CHANGED
 •  SERVER ARTIFACT: Updated server artifact to 13068.
-•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan, smash&grab, OSP AMBULANCE, Wasabi Police, VMS Documents, tk_jail, LB Tablet, LB Phone, cs_documents, Lation Laundering, RTX Themepark
+•  RESOURCE UPDATES: Updated BCS Housing v313, Lation Selling, OxMySQL, oxlib, z_fire, z_hose, z_ppvfan, smash&grab, OSP AMBULANCE, Wasabi Police, VMS Documents, tk_jail, LB Tablet, LB Phone, cs_documents, Lation Laundering, RTX Themepark, ReFlow Hunting.
 •  LIB/BRIDGE UPDATES: Updated r_bridge, is_lib, is_bridge.
-•  DRUG RESOURCE UPDATES: Updated Weed, Coke, and Meth! (NOW HAS CERTAIN ITEM MERGING as in durability). A few hotfixes from dev fixed the inital patch of merging the items.
+•  DRUG RESOURCE UPDATES: Updated Weed, Coke, and Meth! (NOW HAS CERTAIN ITEM MERGING as in durability). A few hotfixes from dev fixed the inital patch of merging the items. Fixed multiple levels of obtaining illegal seeds.
 •  VEHICLE KEYS: Lowered percentages of locked AI vehicles and locked local vehicles in general.
 •  TUTORIAL: Finally got tutorial going again. Modified it some. Will work on it as time goes on!
 •  CITY HALL: Lowered Vehicle Insurance prices drastically (it will always be based on the price of your vehicle)
 •  CONSUMABLES: Made hunger + thirst last longer. Made restaurant food/drink boost completely!
+•  LB PHONE + VMS CITY HALL: Email gets created automatically when getting a new phone/making new character. Cityhall Resume email now set to correct domain for resume confirmations or denials.
 
 🟢 FIXES
 ✔️ UWU CAT CAFE: Fixed it where they were not receiving money from purchases. Compensated for such.
